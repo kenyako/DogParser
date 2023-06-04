@@ -1,0 +1,122 @@
+[
+    {
+        "breed_name": "Аляскинский кли-кай",
+        "breed_img": "https://lapkins.ru/upload/iblock/711/711575948caea27bae92a180a7853756.jpg",
+        "breed_descr": "Аляскинский кли-кай – миниатюрная копия хаски и счастливый обладатель недюжинного обаяния, которое растопит ваше сердце! Вы не сдержите улыбку, глядя на столь харизматичного питомца.",
+        "breed_country": "США",
+        "breed_birth_time": "1970-е годы",
+        "breed_weight": "стандартный – 10 кг, мини – 7 кг, той – 4,3 кг",
+        "breed_height": "стандартный 38 – 43 см, мини 33 – 38 см, той менее 33 см",
+        "breed_life_expectancy": "13 – 14 лет"
+    },
+    {
+        "breed_name": "Американская акита",
+        "breed_img": "https://lapkins.ru/upload/iblock/e88/e881aa3e59df6650a093dd15e28deb9d.jpg",
+        "breed_descr": "Американская акита – сравнительно молодая порода. Это крупная собака с серьезным нравом. Тем, кто найдет к ней подход, станет верным другом.",
+        "breed_country": "Япония, США",
+        "breed_birth_time": "1955 год",
+        "breed_weight": "32-59 кг",
+        "breed_height": "кобели 65-70 см, суки 60-65 см",
+        "breed_life_expectancy": "10-14 лет"
+    },
+    {
+        "breed_name": "Американский булли",
+        "breed_img": "https://lapkins.ru/upload/iblock/c11/c11f6b3cba1cfa5abaa0aa4654479127.jpg",
+        "breed_descr": "Американский булли – бодибилдер в мире собак. При взгляде на этого приземистого крепыша с оскалом хищника, с трудом верится в дружелюбие и кроткий нрав животного. Тем не менее, долой стереотипы!",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "30-58 кг",
+        "breed_height": "40-57 см",
+        "breed_life_expectancy": "8-12 лет"
+    },
+    {
+        "breed_name": "Американский голый терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/76f/76ff7605a3f7cce88b3bcdceef83a51e.jpg",
+        "breed_descr": "Американский голый терьер – порода бесшерстных некрупных собак, появившаяся в 80-х годах XX века, в США, в результате генетической мутации.",
+        "breed_country": "США",
+        "breed_birth_time": "1972 год",
+        "breed_weight": "5,5-7,3 кг",
+        "breed_height": "25-46 см",
+        "breed_life_expectancy": "14-16 лет"
+    },
+    {
+        "breed_name": "Бивер-йоркширский терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/637/wyg1vnxcut407e29zoqlluvz9fa3mm3b.jpg",
+        "breed_descr": "Бивер-йоркширский терьер – немецкая порода трехцветных собак-компаньонов. Она ведет свое происхождение от йоркширских терьеров.",
+        "breed_country": "Германия",
+        "breed_birth_time": "1980-е годы",
+        "breed_weight": "1,8-3,6 кг",
+        "breed_height": "17,8-27,9 см",
+        "breed_life_expectancy": "13-16 лет"
+    },
+    {
+        "breed_name": "Гампр",
+        "breed_img": "https://lapkins.ru/upload/iblock/8fd/8fd84d87328462a570e8b18a8430488e.jpg",
+        "breed_descr": "Гампр – крупная пастушья и сторожевая порода собак, издревле разводимая на территории Армянского нагорья. Большая часть поголовья сосредоточена в Армении.",
+        "breed_country": "Армения",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 57-61 кг, суки 45-59 кг",
+        "breed_height": "кобели 64-66 см, суки 58-61 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Кокапу",
+        "breed_img": "https://lapkins.ru/upload/iblock/aa4/octqp7b7eis2l972tlwifol826ij62w8.jpg",
+        "breed_descr": "Кокапу – дизайнерская порода собак, полученная в результате скрещивания американского кокер-спаниеля и пуделя.",
+        "breed_country": "США",
+        "breed_birth_time": "1960-е",
+        "breed_weight": "9,1-10,9 кг",
+        "breed_height": "36-38 см",
+        "breed_life_expectancy": "13-16 лет"
+    },
+    {
+        "breed_name": "Мальтипу",
+        "breed_img": "https://lapkins.ru/upload/iblock/159/15959a8ce3bdb1284f37aadabb9d2fe8.jpg",
+        "breed_descr": "Мальтипу – наполовину той-пудель, наполовину мальтийская болонка. Порода расценивается как дизайнерская, но остается не признанной международными кинологическими ассоциациями.",
+        "breed_country": "",
+        "breed_birth_time": "",
+        "breed_weight": "2,5-5 кг",
+        "breed_height": "20-30 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Пагль",
+        "breed_img": "https://lapkins.ru/upload/iblock/27c/g03ybu975jvkzcb5520wd1if364byzaa.jpg",
+        "breed_descr": "Пагль – метис мопса и бигля, находящийся в неофициальном статусе дизайнерской породы. Умен, дружелюбен, в меру активен. Экстерьером пагль напоминает уменьшенную копию мастифа, но без ярко выраженных брылей. ",
+        "breed_country": "США",
+        "breed_birth_time": "1880-е",
+        "breed_weight": "8-13 кг",
+        "breed_height": "33-38 см",
+        "breed_life_expectancy": "11-14 лет"
+    },
+    {
+        "breed_name": "Петербургская орхидея",
+        "breed_img": "https://lapkins.ru/upload/iblock/bee/bee557f2a7bf4f9ee238d5c310a3d5f3.jpg",
+        "breed_descr": "Петербургская орхидея – авторская порода имиджевых длинношерстных собак, выведенных в Санкт-Петербурге. Отличительные черты животных – миниатюрная комплекция, ультракоммуникабельность и позитивное отношение к жизни.",
+        "breed_country": "Россия",
+        "breed_birth_time": "1997 год",
+        "breed_weight": "2-4 кг  (У маловесных орхидей от 700 г до 2 кг)",
+        "breed_height": "17-30 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Помски",
+        "breed_img": "https://lapkins.ru/upload/iblock/728/7285567cdb5d4b7ae8e13ba846a1c963.jpg",
+        "breed_descr": "Помски – помесь хаски и померанского шпица, не признанная кинологическими ассоциациями и не имеющая статуса самостоятельной породы.",
+        "breed_country": "США",
+        "breed_birth_time": "2013 год",
+        "breed_weight": "5-7 кг",
+        "breed_height": "30-40 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Русский той-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/947/947e6bec6c723daeddb2296e8b71ac1a.JPG",
+        "breed_descr": "Русский той-терьер – миниатюрный и чрезвычайно эмоциональный умница. Верный компаньон и неутомимый проказник, он с удовольствием поддержит любую игру.",
+        "breed_country": "Россия",
+        "breed_birth_time": "",
+        "breed_weight": "1,4-3 кг",
+        "breed_height": "20-28 см",
+        "breed_life_expectancy": "10-12 лет"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "breed_name": "Акита-ину",
+        "breed_img": "https://lapkins.ru/upload/iblock/923/923124829b0781ae065bff0951917c74.jpg",
+        "breed_descr": "Акита-ину – одна из древнейших пород собак на Земле, выведена в северных регионах Японии. Это гордый, сильный и преданный питомец.",
+        "breed_country": "Япония",
+        "breed_birth_time": "1964 год",
+        "breed_weight": "23 – 39 кг",
+        "breed_height": "кобели 64 – 70 см, суки 58 – 64 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Американская акита",
+        "breed_img": "https://lapkins.ru/upload/iblock/e88/e881aa3e59df6650a093dd15e28deb9d.jpg",
+        "breed_descr": "Американская акита – сравнительно молодая порода. Это крупная собака с серьезным нравом. Тем, кто найдет к ней подход, станет верным другом.",
+        "breed_country": "Япония, США",
+        "breed_birth_time": "1955 год",
+        "breed_weight": "32-59 кг",
+        "breed_height": "кобели 65-70 см, суки 60-65 см",
+        "breed_life_expectancy": "10-14 лет"
+    },
+    {
+        "breed_name": "Сиба-ину",
+        "breed_img": "https://lapkins.ru/upload/iblock/11e/11ea73b02406f137742271272c2812e5.jpg",
+        "breed_descr": "Сиба-ину – очаровательная собака с плюшевой шерстью и своенравным характером. Быть хозяином такого питомца непросто, но если вы завоюете его уважение и доверие, то получите массу удовольствия от общения с умным и любознательным другом.",
+        "breed_country": "Япония",
+        "breed_birth_time": "III век до н. э.",
+        "breed_weight": "кобели 9-14 кг, суки 8-13 кг",
+        "breed_height": "кобели 40 см, суки 37 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Тоса-ину",
+        "breed_img": "https://lapkins.ru/upload/iblock/b22/b22046f8cf6760f4ca836a61272fedd2.jpg",
+        "breed_descr": "Тоса-ину (японский мастиф, тоса-токэн, токийская бойцовая собака) – порода крупных молоссоподобных собак, выведенная в Японии для участия в боях. ",
+        "breed_country": "Япония",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "45-90 кг",
+        "breed_height": "кобели от 60 см, суки от 55 см",
+        "breed_life_expectancy": "8-12 лет"
+    },
+    {
+        "breed_name": "Японский хин",
+        "breed_img": "https://lapkins.ru/upload/iblock/4b1/4b1a1ebf8bb53d83837c72672bd55989.jpg",
+        "breed_descr": "Японский хин – миниатюрная, элегантная собачка-компаньон. Она умна, понятлива, ласкова, отлично приспособлена для содержания в малогабаритных городских квартирах.",
+        "breed_country": "Япония",
+        "breed_birth_time": "",
+        "breed_weight": "2-5 кг",
+        "breed_height": "20-27 см",
+        "breed_life_expectancy": ""
+    },
+    {
+        "breed_name": "Японский шпиц",
+        "breed_img": "https://lapkins.ru/upload/iblock/a9f/a9f6004878eea81bc3aac1ca4426c15e.jpg",
+        "breed_descr": "Японский шпиц – небольшая собака из группы шпицев с пушистой шерсткой белоснежного окраса. Представители породы отличаются живым темпераментом, но вполне управляемы и легко дрессируются. ",
+        "breed_country": "Япония",
+        "breed_birth_time": "1920-1930-е гг.",
+        "breed_weight": "5-8 кг",
+        "breed_height": "28-36 см",
+        "breed_life_expectancy": "10-16 лет"
+    }
+]

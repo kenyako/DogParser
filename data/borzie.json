@@ -1,0 +1,122 @@
+[
+    {
+        "breed_name": "Азавак",
+        "breed_img": "https://lapkins.ru/upload/iblock/98a/32e86cxs0z7fqwtalz3yq6udyokh7cp7.jpg",
+        "breed_descr": "Азавак (африканская борзая) – вид грациозных, тонкошерстных собак, исторически обитающий в африканском регионе Сахель. Азавак относится к аборигенным примитивным породам, испытавшим минимальное влияние человека.",
+        "breed_country": "Мали",
+        "breed_birth_time": "1980 год",
+        "breed_weight": "кобели 20-25 кг, суки 15-20 кг",
+        "breed_height": "кобели 64-74 ± 2 см , суки 60-70 ± 2 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Афганская борзая",
+        "breed_img": "https://lapkins.ru/upload/iblock/c0e/c0e78efc4e6e63cea908b0a0261cf317.jpg",
+        "breed_descr": "Афганская борзая – древняя порода длинношерстных охотничьих собак, отличающихся повышенной чувствительностью и спокойным, миролюбивым характером.",
+        "breed_country": "Афганистан",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 20-25 кг, суки 15-20 кг",
+        "breed_height": "кобели 64-74 см, суки 60-70 см",
+        "breed_life_expectancy": "11-13 лет"
+    },
+    {
+        "breed_name": "Басенджи",
+        "breed_img": "https://lapkins.ru/upload/iblock/a24/a24a876545492f6bf12ab1fdfd303c08.jpg",
+        "breed_descr": "Басенджи — очень древняя порода, которая дошла до наших дней, не претерпев никаких изменений. Эта собака – прекрасный охотник и чуткий преданный друг.",
+        "breed_country": "Центральная Африка",
+        "breed_birth_time": "около 3000 до н. э.",
+        "breed_weight": "кобели 11 кг, суки 9,5 кг",
+        "breed_height": "кобели 43 см, суки 40 см",
+        "breed_life_expectancy": "12-16 лет"
+    },
+    {
+        "breed_name": "Грейхаунд",
+        "breed_img": "https://lapkins.ru/upload/iblock/4af/4af20db77d745c640f94d918d4b45ff6.jpg",
+        "breed_descr": "Грейхаунд – самая быстрая порода в мире, основными «квалификациями» которой считаются охота на полевую дичь и бега.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 29-32 кг, суки 27-29 кг",
+        "breed_height": "кобели 71-77 см, суки 68-71 см",
+        "breed_life_expectancy": "9 – 11 лет"
+    },
+    {
+        "breed_name": "Дирхаунд",
+        "breed_img": "https://lapkins.ru/upload/iblock/2ac/lcjdjhtgh2slq2pohp4p1mfqgn80lxa7.jpg",
+        "breed_descr": "Дирхаунд (шотландская оленья борзая) – жесткошерстная охотничья собака, превосходно работающая в условиях гористой и пересеченной местности. Внешне напоминает ирландского волкодава, но с более изящным силуэтом. Выводилась для охоты на копытных.",
+        "breed_country": "Шотландия",
+        "breed_birth_time": "1955 год",
+        "breed_weight": "кобели ≈ 45,5 кг, суки ≈ 36 кг",
+        "breed_height": "кобели от 76 см, суки от 71 см",
+        "breed_life_expectancy": "8-11 лет"
+    },
+    {
+        "breed_name": "Ирландский волкодав",
+        "breed_img": "https://lapkins.ru/upload/iblock/947/947ee79bab0c6304ab0ba2ae7d8be446.jpg",
+        "breed_descr": "Ирландский волкодав – крупная жесткошерстная собака из группы борзых, выведенная для истребления волков. В современных реалиях чаще исполняет роль компаньона, чем полноценного охотника. ",
+        "breed_country": "Ирландия",
+        "breed_birth_time": "",
+        "breed_weight": "кобели от 54,5 кг, суки от 40,5 кг",
+        "breed_height": "кобели не менее 79 см, суки не менее 71 см",
+        "breed_life_expectancy": "8-11 лет"
+    },
+    {
+        "breed_name": "Левретка",
+        "breed_img": "https://lapkins.ru/upload/iblock/59d/59d8e717626231f55f3368d967908c83.jpg",
+        "breed_descr": "Левретка – самая миниатюрная и темпераментная представительница клана борзых. Игрива, общительна, не терпит невнимания к собственной персоне.",
+        "breed_country": "Италия",
+        "breed_birth_time": "20-30 годы XX века",
+        "breed_weight": "максимум 5 кг",
+        "breed_height": "32-38 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Русская псовая борзая",
+        "breed_img": "https://lapkins.ru/upload/iblock/3ea/3ea1f19fedb872f465ab48774e95886d.jpg",
+        "breed_descr": "Русская псовая борзая (РПБ) – крупная охотничья собака, превосходно зарекомендовавшая себя в работе с пушно-меховым зверем. Также привлекается к охоте на волков. ",
+        "breed_country": "Россия",
+        "breed_birth_time": "XVII век",
+        "breed_weight": "кобели 35-45 кг, суки 25-40 кг",
+        "breed_height": "кобели 75-86 см, суки 68-78 см",
+        "breed_life_expectancy": "9-12 лет"
+    },
+    {
+        "breed_name": "Салюки",
+        "breed_img": "https://lapkins.ru/upload/iblock/0b8/0b85005728349dbaa9d753d03c9dc9c7.jpg",
+        "breed_descr": "Салюки – высокая, элегантно-поджарая борзая, выведенная для безружейной охоты на мелкую дичь и участия в собачьих бегах на большие расстояния.",
+        "breed_country": "Ближний Восток",
+        "breed_birth_time": "",
+        "breed_weight": "14-25 кг",
+        "breed_height": "58-71 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Уиппет",
+        "breed_img": "https://lapkins.ru/upload/iblock/2e6/2e6d5a31889f7010533f85cf09f07bbe.jpg",
+        "breed_descr": "Уиппет – изящное гладкошерстное создание, в чьих жилах течет кровь грейхаундов. Порода была выведена в XIX веке для охоты на кроликов и участия в собачьих бегах.",
+        "breed_country": "Англия",
+        "breed_birth_time": "",
+        "breed_weight": "10-12 кг",
+        "breed_height": "кобели 47-51 см, суки 44-47 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Фараонова собака",
+        "breed_img": "https://lapkins.ru/upload/iblock/153/1534fa5cf033c9a61182d0d582774446.jpg",
+        "breed_descr": "Фараонова собака – длинноногое создание с золотисто-каштановой шерстью и профилем египетского бога Анубиса, относящееся к группе примитивных собак. Официальная родина породы – остров Мальта.",
+        "breed_country": "Мальта",
+        "breed_birth_time": "",
+        "breed_weight": "20-25 кг",
+        "breed_height": "кобели 56-63,5 см; суки",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Чирнеко дель Этна",
+        "breed_img": "https://lapkins.ru/upload/iblock/df0/io7u89a2ua25eaw4ixqdlm7uwodvfh3w.jpg",
+        "breed_descr": "Чирнеко дель Этна – очень древняя порода собак с острова Сицилия. Виртуозно работает по кролику и зайцу в условиях сложного скалистого рельефа. В современном мире в большей степени используется как собака-компаньон.",
+        "breed_country": "Италия",
+        "breed_birth_time": "1956 год",
+        "breed_weight": "кобели 10-12 кг, суки 8-10 кг",
+        "breed_height": "кобели 46-50 см, суки 43-46 см",
+        "breed_life_expectancy": "12-14 лет"
+    }
+]

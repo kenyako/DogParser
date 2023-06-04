@@ -1,0 +1,402 @@
+[
+    {
+        "breed_name": "Американский голый терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/76f/76ff7605a3f7cce88b3bcdceef83a51e.jpg",
+        "breed_descr": "Американский голый терьер – порода бесшерстных некрупных собак, появившаяся в 80-х годах XX века, в США, в результате генетической мутации.",
+        "breed_country": "США",
+        "breed_birth_time": "1972 год",
+        "breed_weight": "5,5-7,3 кг",
+        "breed_height": "25-46 см",
+        "breed_life_expectancy": "14-16 лет"
+    },
+    {
+        "breed_name": "Английский той-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/aa5/kjcm7a5hmznogw7rntxtsqsjte2axjxt.jpg",
+        "breed_descr": "Английский той-терьер – гладкошерстная порода мелких терьеров черно-подпалой масти родом из Великобритании. ",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "2,7-3,6 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": "10-13 лет"
+    },
+    {
+        "breed_name": "Аффенпинчер",
+        "breed_img": "https://lapkins.ru/upload/iblock/9be/9be8c6987511e69e726c7d23f694bab5.jpg",
+        "breed_descr": "Аффенпинчер – карликовый представитель группы пинчеров с жесткой шерстью по корпусу и длинной косматой растительностью на морде.",
+        "breed_country": "Германия",
+        "breed_birth_time": "",
+        "breed_weight": "4-6 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": ""
+    },
+    {
+        "breed_name": "Бельгийский гриффон",
+        "breed_img": "https://lapkins.ru/upload/iblock/4b1/4b1f56966009f8c2430c66de4fab5feb.jpg",
+        "breed_descr": "Бельгийский гриффон – представитель секции малых бельгийских собак, потешный усатый брахицефал черного либо черно-подпалого окраса.",
+        "breed_country": "Бельгия",
+        "breed_birth_time": "",
+        "breed_weight": "3,5-6 кг",
+        "breed_height": "18-20 см",
+        "breed_life_expectancy": ""
+    },
+    {
+        "breed_name": "Бивер-йоркширский терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/637/wyg1vnxcut407e29zoqlluvz9fa3mm3b.jpg",
+        "breed_descr": "Бивер-йоркширский терьер – немецкая порода трехцветных собак-компаньонов. Она ведет свое происхождение от йоркширских терьеров.",
+        "breed_country": "Германия",
+        "breed_birth_time": "1980-е годы",
+        "breed_weight": "1,8-3,6 кг",
+        "breed_height": "17,8-27,9 см",
+        "breed_life_expectancy": "13-16 лет"
+    },
+    {
+        "breed_name": "Бишон фризе",
+        "breed_img": "https://lapkins.ru/upload/iblock/6f3/6f3dac95ba1fea52efed069f2e512b1f.jpg",
+        "breed_descr": "Бишон фризе (французская болонка) – миниатюрный плюшевый «антидепрессант» и обаятельный шалун, с которым не придется скучать.",
+        "breed_country": "Франция, Бельгия",
+        "breed_birth_time": "",
+        "breed_weight": "2,5-3 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Бостон-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/51b/51bfa62f60d3ffb22ed9b145cf71e7d8.jpg",
+        "breed_descr": "Бостон-терьер – небольшая декоративная порода собак со сплющенной мордочкой, большими глазами и пятнистым окрасом шерсти, выведенная в США путем скрещивания английского бульдога с английским терьером.",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "3-11 кг",
+        "breed_height": "23-38 см",
+        "breed_life_expectancy": "11-15 лет"
+    },
+    {
+        "breed_name": "Брюссельский гриффон",
+        "breed_img": "https://lapkins.ru/upload/iblock/f7a/f7a2fe2890315c592510483d8de8f002.jpg",
+        "breed_descr": "Брюссельский гриффон словно сошёл со страниц сказок о добрых домовятах! Этот очаровательный и слегка неуклюжий бородач с лёгкостью завоюет любовь всех членов семьи.",
+        "breed_country": "Бельгия",
+        "breed_birth_time": "",
+        "breed_weight": "3-6 кг",
+        "breed_height": "18-20 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Вест-хайленд-уайт-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/09f/09f78d0c57156a58c3cad34c111f059c.jpg",
+        "breed_descr": "Вест-хайленд-уайт-терьер – миниатюрный «шотландец» с белоснежной шерсткой, выведенный специально для работы с мелкой дичью. В повседневной жизни смел, любознателен и очень игрив.",
+        "breed_country": "Шотландия",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 7-10 кг, суки 6-7 кг",
+        "breed_height": "кобели 25-30 см, суки 23-28 см",
+        "breed_life_expectancy": "12-16 лет"
+    },
+    {
+        "breed_name": "Гаванский бишон",
+        "breed_img": "https://lapkins.ru/upload/iblock/78b/78b814ae542931089a3f2ad50e4c30f9.jpg",
+        "breed_descr": "Гаванский бишон – коммуникабельная собака-компаньон из группы болонок с гладкой длинной шерстью. ",
+        "breed_country": "Куба",
+        "breed_birth_time": "",
+        "breed_weight": "3-5,5 кг",
+        "breed_height": "23-29 см",
+        "breed_life_expectancy": "13-15 лет"
+    },
+    {
+        "breed_name": "Йоркширский терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/305/3052ffceecb0392a4bd66c672ac78a71.jpg",
+        "breed_descr": "Йоркширский терьер – одна из самых популярных в мире комнатно-декоративных пород собак. Йорк очарователен внешне, энергичен, ласков и является отличным компаньоном.",
+        "breed_country": "Англия",
+        "breed_birth_time": "конец XIX века",
+        "breed_weight": "2-3,2 кг",
+        "breed_height": "15-17 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Кавалер-кинг-чарльз-спаниель",
+        "breed_img": "https://lapkins.ru/upload/iblock/b48/b485acd675a27aac77d3a42829a213ed.jpg",
+        "breed_descr": "Кавалер-кинг-чарльз-спаниель – развеселый лохматый непоседа, обладающий выразительной, кокетливой внешностью и добродушным характером. Оживит собственным присутствием любой дом и отлично справится с ролью надежного компаньона.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XVII век",
+        "breed_weight": "от 5,5 до 8 кг",
+        "breed_height": "до 32 см",
+        "breed_life_expectancy": "11-12 лет"
+    },
+    {
+        "breed_name": "Кеесхонд",
+        "breed_img": "https://lapkins.ru/upload/iblock/374/374dee7105ead3cf247fcc08ee58c0e1.jpg",
+        "breed_descr": "Кеесхонд – разновидность немецких вольфшпицев, появившаяся на свет благодаря стараниям голландских селекционеров. Все представители породы имеют двойную длинную шерсть волчьего окраса и отличаются живым темпераментом.",
+        "breed_country": "Германия",
+        "breed_birth_time": "",
+        "breed_weight": "25-30 кг",
+        "breed_height": "43-55 см",
+        "breed_life_expectancy": "14-15 лет"
+    },
+    {
+        "breed_name": "Китайская хохлатая собака",
+        "breed_img": "https://lapkins.ru/upload/iblock/39a/39a8f33c4174a4636113e6c2b6c8cdbe.jpg",
+        "breed_descr": "Китайская хохлатая собака – имиджевая, комнатная порода, представители которой делятся на два типа: бесшерстных особей с полностью голым корпусом и пуховых, заросших длинным шелковистым волосом.",
+        "breed_country": "Китай",
+        "breed_birth_time": "",
+        "breed_weight": "2,3-5,5 кг",
+        "breed_height": "кобели 28-33 см, суки 23-30 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Кокапу",
+        "breed_img": "https://lapkins.ru/upload/iblock/aa4/octqp7b7eis2l972tlwifol826ij62w8.jpg",
+        "breed_descr": "Кокапу – дизайнерская порода собак, полученная в результате скрещивания американского кокер-спаниеля и пуделя.",
+        "breed_country": "США",
+        "breed_birth_time": "1960-е",
+        "breed_weight": "9,1-10,9 кг",
+        "breed_height": "36-38 см",
+        "breed_life_expectancy": "13-16 лет"
+    },
+    {
+        "breed_name": "Котон-де-тулеар",
+        "breed_img": "https://lapkins.ru/upload/iblock/c7e/9e0fars86n0gc3w7ta5ry3et4x1qff4l.jpg",
+        "breed_descr": "Котон-де-тулеар – небольшая декоративная собака с белой шерстью, структурой напоминающей содержимое коробочки хлопчатника.",
+        "breed_country": "Мадагаскар, Франция",
+        "breed_birth_time": "1970 год",
+        "breed_weight": "кобели 4-6 см, суки 3,5-5 см",
+        "breed_height": "кобели 25-30 см, суки 22-27 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Лхаса апсо",
+        "breed_img": "https://lapkins.ru/upload/iblock/83b/83bae38048ca793ddcd6b501b74eb3e1.jpg",
+        "breed_descr": "Лхаса апсо – небольшой, но очень харизматичный уроженец Тибета; представитель одной из самых древних пород собак, обладающий гламурной внешностью и независимым характером.",
+        "breed_country": "Тибет",
+        "breed_birth_time": "",
+        "breed_weight": "6-7 кг",
+        "breed_height": "20-26 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Мальтийская болонка",
+        "breed_img": "https://lapkins.ru/upload/iblock/e7c/e7c3e3033da09dcdab93ef01e60138fc.jpg",
+        "breed_descr": "Мальтийская болонка (мальтезе) – порода подвижных и очень эмоциональных декоративных собачек с белоснежной «кукольной» шерсткой.",
+        "breed_country": "Италия",
+        "breed_birth_time": "",
+        "breed_weight": "3-4 кг",
+        "breed_height": "кобели 21-25 см, суки 20-23 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Мальтипу",
+        "breed_img": "https://lapkins.ru/upload/iblock/159/15959a8ce3bdb1284f37aadabb9d2fe8.jpg",
+        "breed_descr": "Мальтипу – наполовину той-пудель, наполовину мальтийская болонка. Порода расценивается как дизайнерская, но остается не признанной международными кинологическими ассоциациями.",
+        "breed_country": "",
+        "breed_birth_time": "",
+        "breed_weight": "2,5-5 кг",
+        "breed_height": "20-30 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Мини-бультерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/798/7981540ecc0f3d9da3919e25833b47fc.jpg",
+        "breed_descr": "Мини-бультерьер – британская порода собак, ведущая свое происхождение от стандартных бультерьеров и отличающаяся от них более компактным телосложением.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "1991 год",
+        "breed_weight": "не больше 8 кг",
+        "breed_height": "25-35 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Мопс",
+        "breed_img": "https://lapkins.ru/upload/iblock/130/1309222f033fb6928ea065578276ab44.jpg",
+        "breed_descr": "Мопс является древней и неизменно популярной на протяжении всей своей истории породой. Это прекрасная собака-компаньон для городских жителей.",
+        "breed_country": "Древний Китай",
+        "breed_birth_time": "",
+        "breed_weight": "6-8 кг",
+        "breed_height": "28-32 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Норвич-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/052/052b31c84bf7b1d943721130161d5495.jpg",
+        "breed_descr": "Норвич-терьер – очаровательная «зажигалочка» в мире собак. Этот бойкий и любопытный малыш станет главным источником положительных эмоций в вашей семье, ведь на него без улыбки не глянешь!",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "5,5 кг",
+        "breed_height": "25-26 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Пагль",
+        "breed_img": "https://lapkins.ru/upload/iblock/27c/g03ybu975jvkzcb5520wd1if364byzaa.jpg",
+        "breed_descr": "Пагль – метис мопса и бигля, находящийся в неофициальном статусе дизайнерской породы. Умен, дружелюбен, в меру активен. Экстерьером пагль напоминает уменьшенную копию мастифа, но без ярко выраженных брылей. ",
+        "breed_country": "США",
+        "breed_birth_time": "1880-е",
+        "breed_weight": "8-13 кг",
+        "breed_height": "33-38 см",
+        "breed_life_expectancy": "11-14 лет"
+    },
+    {
+        "breed_name": "Папильон",
+        "breed_img": "https://lapkins.ru/upload/iblock/6d1/6d1b9f52aa9f2d04908db02f1b12056a.jpg",
+        "breed_descr": "Папильон, он же папийон, он же континентальный той-спаниель – декоративная собака-компаньон, чья визитная карточка – изящные, украшенные длинной шерстью уши, напоминающие распахнутые крылья бабочки.",
+        "breed_country": "Франция",
+        "breed_birth_time": "",
+        "breed_weight": "3-5 кг",
+        "breed_height": "20-28 см",
+        "breed_life_expectancy": "13-15 лет"
+    },
+    {
+        "breed_name": "Пекинес",
+        "breed_img": "https://lapkins.ru/upload/iblock/b61/b61169457eab98ed122cda7e99579a5a.jpg",
+        "breed_descr": "Пекинес – древняя порода декоративных собак с короткими лапами, «сплющенными» мордочками и пушистой шерстью, выведенная в Китае.",
+        "breed_country": "Китай",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 3,2-5,0 кг, суки 3,6-5,4 кг",
+        "breed_height": "15-25 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Перуанская голая собака",
+        "breed_img": "https://lapkins.ru/upload/iblock/558/kvicyyh9ffs2zagi5skzqr36w6dootpp.jpg",
+        "breed_descr": "Перуанская голая собака – порода бесшерстных, реже – покрытых шерстью собак с территории современного Перу. Относится к породам примитивного типа, максимально приближенным к волкоподобным предкам.",
+        "breed_country": "Перу",
+        "breed_birth_time": "300 г. до н. э. — 1460 г. н. э.",
+        "breed_weight": "малые: 4-8 кг; средние: 8-12 кг; большие: 12-30 кг",
+        "breed_height": "малые: 25-40 см; средние: 41-50 см; большие: 51-65 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Петербургская орхидея",
+        "breed_img": "https://lapkins.ru/upload/iblock/bee/bee557f2a7bf4f9ee238d5c310a3d5f3.jpg",
+        "breed_descr": "Петербургская орхидея – авторская порода имиджевых длинношерстных собак, выведенных в Санкт-Петербурге. Отличительные черты животных – миниатюрная комплекция, ультракоммуникабельность и позитивное отношение к жизни.",
+        "breed_country": "Россия",
+        "breed_birth_time": "1997 год",
+        "breed_weight": "2-4 кг  (У маловесных орхидей от 700 г до 2 кг)",
+        "breed_height": "17-30 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Померанский шпиц",
+        "breed_img": "https://lapkins.ru/upload/iblock/ae6/ae61432957b8583f7c9952f15937c586.jpg",
+        "breed_descr": "Померанский шпиц выглядит как детская игрушка. Этот пушистый колобочек станет верным другом и звонким лаем скрасит самый пасмурный день.",
+        "breed_country": "Германия",
+        "breed_birth_time": "XVIII век",
+        "breed_weight": "1,4-3,2 кг (желательно около 2 кг)",
+        "breed_height": "18-22 см",
+        "breed_life_expectancy": "12-16 лет"
+    },
+    {
+        "breed_name": "Помски",
+        "breed_img": "https://lapkins.ru/upload/iblock/728/7285567cdb5d4b7ae8e13ba846a1c963.jpg",
+        "breed_descr": "Помски – помесь хаски и померанского шпица, не признанная кинологическими ассоциациями и не имеющая статуса самостоятельной породы.",
+        "breed_country": "США",
+        "breed_birth_time": "2013 год",
+        "breed_weight": "5-7 кг",
+        "breed_height": "30-40 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Пражский крысарик",
+        "breed_img": "https://lapkins.ru/upload/iblock/53c/53ce498d01af92dc81d30527c8449b83.jpg",
+        "breed_descr": "Пражский крысарик – в прошлом непревзойденный чешский крысолов, в настоящем – миниатюрный имиджевый питомец с развитыми компаньонскими качествами.",
+        "breed_country": "Чехия",
+        "breed_birth_time": "",
+        "breed_weight": "2-2,2 кг",
+        "breed_height": "19-23 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Пти-брабансон",
+        "breed_img": "https://lapkins.ru/upload/iblock/0e6/0e62c17933c771a85a0546211950d579.jpg",
+        "breed_descr": "Пти-брабансон – декоративная порода, относящаяся к группе малых бельгийских собак. Ласковые и любознательные, брабантские гриффоны сильно привязываются к своим хозяевам.",
+        "breed_country": "Бельгия",
+        "breed_birth_time": "",
+        "breed_weight": "от 3 до 6 кг",
+        "breed_height": "16-26 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Пудель",
+        "breed_img": "https://lapkins.ru/upload/iblock/46c/46c48d510e99fd27d2b9d92eced1dfa4.jpg",
+        "breed_descr": "Пудель – элегантная и миловидная собака, славящаяся своей необычной кудрявой шерстью. Представители этой породы обладают живым характером, веселым нравом и очень смышленые.",
+        "breed_country": "Франция",
+        "breed_birth_time": "",
+        "breed_weight": "большой 20 – 30 кг, малый 8 – 14 кг, карликовый 6 – 8 кг, той ~2,5 кг",
+        "breed_height": "большой 45 – 60 см, малый 35 – 45 см, карликовый 28 – 35 см, той 24 – 28 см",
+        "breed_life_expectancy": "12 – 15 лет"
+    },
+    {
+        "breed_name": "Русский той-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/947/947e6bec6c723daeddb2296e8b71ac1a.JPG",
+        "breed_descr": "Русский той-терьер – миниатюрный и чрезвычайно эмоциональный умница. Верный компаньон и неутомимый проказник, он с удовольствием поддержит любую игру.",
+        "breed_country": "Россия",
+        "breed_birth_time": "",
+        "breed_weight": "1,4-3 кг",
+        "breed_height": "20-28 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Тибетский спаниель",
+        "breed_img": "https://lapkins.ru/upload/iblock/0fc/rgkz030nqf43gt36t7jvnk2bh5cjib8w.jpg",
+        "breed_descr": "Тибетский спаниель – порода компактных собак-компаньонов, издревле обитавших на территории Тибетского нагорья. Веселы, самолюбивы, обладают развитым территориальным инстинктом. ",
+        "breed_country": "Тибет",
+        "breed_birth_time": "",
+        "breed_weight": "4-7 кг",
+        "breed_height": "≈ 25 см",
+        "breed_life_expectancy": ""
+    },
+    {
+        "breed_name": "Французский бульдог",
+        "breed_img": "https://lapkins.ru/upload/iblock/5c0/5c0c7393a5e5d42c33c23efc28a52f84.jpg",
+        "breed_descr": "Французский бульдог – маленькая собака-компаньон с добродушным характером. Питомцу требуется постоянное общение с членами семьи.",
+        "breed_country": "Франция",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "8-14 кг",
+        "breed_height": "30-35 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Цвергпинчер",
+        "breed_img": "https://lapkins.ru/upload/iblock/77a/77a1906405224249bdfc14d72fd367d1.jpg",
+        "breed_descr": "Цвергпинчер – миниатюрный, но весьма крепко сложенный красавец, энергичный, бесстрашный и уверенный в себе. Он эмоционален, ласков и чрезвычайно общителен.",
+        "breed_country": "Германия",
+        "breed_birth_time": "XVIII век",
+        "breed_weight": "4-6 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": "13-15 лет"
+    },
+    {
+        "breed_name": "Чихуахуа",
+        "breed_img": "https://lapkins.ru/upload/iblock/49c/49cd241c27d90c0ce9bd82c950cd4a76.jpg",
+        "breed_descr": "Чихуахуа – декоративные собаки экстремально малого размера. Бесконечно преданы хозяину и чрезвычайно самолюбивы. Входят в топ-10 наиболее популярных пород в мире.",
+        "breed_country": "Мексика",
+        "breed_birth_time": "",
+        "breed_weight": "0,5-3 кг",
+        "breed_height": "15-23 см",
+        "breed_life_expectancy": "11-14 лет"
+    },
+    {
+        "breed_name": "Ши-тцу",
+        "breed_img": "https://lapkins.ru/upload/iblock/b0b/b0b0364aa02f21000841862330af0792.jpg",
+        "breed_descr": "Ши-тцу – собака-компаньон с длинной атласной шерстью, придающей животному сходство с цветком хризантемы. Имеет азиатские корни, отличается уравновешенным характером и сильным чувством привязанности к хозяину.",
+        "breed_country": "Тибет",
+        "breed_birth_time": "XVI век",
+        "breed_weight": "4-7 кг",
+        "breed_height": "до 27 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Японский хин",
+        "breed_img": "https://lapkins.ru/upload/iblock/4b1/4b1a1ebf8bb53d83837c72672bd55989.jpg",
+        "breed_descr": "Японский хин – миниатюрная, элегантная собачка-компаньон. Она умна, понятлива, ласкова, отлично приспособлена для содержания в малогабаритных городских квартирах.",
+        "breed_country": "Япония",
+        "breed_birth_time": "",
+        "breed_weight": "2-5 кг",
+        "breed_height": "20-27 см",
+        "breed_life_expectancy": ""
+    },
+    {
+        "breed_name": "Японский шпиц",
+        "breed_img": "https://lapkins.ru/upload/iblock/a9f/a9f6004878eea81bc3aac1ca4426c15e.jpg",
+        "breed_descr": "Японский шпиц – небольшая собака из группы шпицев с пушистой шерсткой белоснежного окраса. Представители породы отличаются живым темпераментом, но вполне управляемы и легко дрессируются. ",
+        "breed_country": "Япония",
+        "breed_birth_time": "1920-1930-е гг.",
+        "breed_weight": "5-8 кг",
+        "breed_height": "28-36 см",
+        "breed_life_expectancy": "10-16 лет"
+    }
+]

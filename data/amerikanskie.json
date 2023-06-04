@@ -1,0 +1,172 @@
+[
+    {
+        "breed_name": "Австралийская овчарка (аусси)",
+        "breed_img": "https://lapkins.ru/upload/iblock/2ca/2ca744cbcd97469ed86860852ace4f40.jpg",
+        "breed_descr": "Австралийская овчарка обладает удивительной красотой. Её выразительный взгляд сведёт с ума даже заядлого любителя кошек.",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 25-30 кг, суки 18-25 кг",
+        "breed_height": "кобели 51-58 см, суки 46-53 см",
+        "breed_life_expectancy": "13 – 15 лет"
+    },
+    {
+        "breed_name": "Аляскинский кли-кай",
+        "breed_img": "https://lapkins.ru/upload/iblock/711/711575948caea27bae92a180a7853756.jpg",
+        "breed_descr": "Аляскинский кли-кай – миниатюрная копия хаски и счастливый обладатель недюжинного обаяния, которое растопит ваше сердце! Вы не сдержите улыбку, глядя на столь харизматичного питомца.",
+        "breed_country": "США",
+        "breed_birth_time": "1970-е годы",
+        "breed_weight": "стандартный – 10 кг, мини – 7 кг, той – 4,3 кг",
+        "breed_height": "стандартный 38 – 43 см, мини 33 – 38 см, той менее 33 см",
+        "breed_life_expectancy": "13 – 14 лет"
+    },
+    {
+        "breed_name": "Аляскинский маламут",
+        "breed_img": "https://lapkins.ru/upload/iblock/6d0/6d0c636ec1391c4a92b1fa82b7fb9be6.jpg",
+        "breed_descr": "Аляскинский маламут – древняя порода, выведенная эскимосами племени малемьют. Крупные и выносливые, маламуты предназначены для работы в собачьих упряжках в регионах Крайнего Севера.",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 36-43 кг, суки 32-38 кг",
+        "breed_height": "кобели 63,5 см, суки 58,5 см",
+        "breed_life_expectancy": "13-16 лет"
+    },
+    {
+        "breed_name": "Американская акита",
+        "breed_img": "https://lapkins.ru/upload/iblock/e88/e881aa3e59df6650a093dd15e28deb9d.jpg",
+        "breed_descr": "Американская акита – сравнительно молодая порода. Это крупная собака с серьезным нравом. Тем, кто найдет к ней подход, станет верным другом.",
+        "breed_country": "Япония, США",
+        "breed_birth_time": "1955 год",
+        "breed_weight": "32-59 кг",
+        "breed_height": "кобели 65-70 см, суки 60-65 см",
+        "breed_life_expectancy": "10-14 лет"
+    },
+    {
+        "breed_name": "Американский бандог",
+        "breed_img": "https://lapkins.ru/upload/iblock/9c3/3umyn3uoddl1v807d6h0al1zps8z130b.jpg",
+        "breed_descr": "Американский бандог – потомок амстаффов, питбулей и мастифов, изначально выведенный для участия в собачьих боях. В сегодняшних реалиях чаще используется как сторожевая порода.",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "45-68 кг",
+        "breed_height": "не менее 50 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Американский булли",
+        "breed_img": "https://lapkins.ru/upload/iblock/c11/c11f6b3cba1cfa5abaa0aa4654479127.jpg",
+        "breed_descr": "Американский булли – бодибилдер в мире собак. При взгляде на этого приземистого крепыша с оскалом хищника, с трудом верится в дружелюбие и кроткий нрав животного. Тем не менее, долой стереотипы!",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "30-58 кг",
+        "breed_height": "40-57 см",
+        "breed_life_expectancy": "8-12 лет"
+    },
+    {
+        "breed_name": "Американский бульдог",
+        "breed_img": "https://lapkins.ru/upload/iblock/856/856f06d45a5b3b2ab7a1e6f4bf080a8a.jpg",
+        "breed_descr": "Американский бульдог – гремучая смесь темперамента и щенячьей преданности. С таким питомцем всегда чувствуешь себя в безопасности.",
+        "breed_country": "США",
+        "breed_birth_time": "конец XIX века",
+        "breed_weight": "кобели 32 – 54 кг, суки 27 – 45 кг",
+        "breed_height": "кобели 55 – 70 см, суки 52 – 65 см",
+        "breed_life_expectancy": "11 – 12 лет"
+    },
+    {
+        "breed_name": "Американский голый терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/76f/76ff7605a3f7cce88b3bcdceef83a51e.jpg",
+        "breed_descr": "Американский голый терьер – порода бесшерстных некрупных собак, появившаяся в 80-х годах XX века, в США, в результате генетической мутации.",
+        "breed_country": "США",
+        "breed_birth_time": "1972 год",
+        "breed_weight": "5,5-7,3 кг",
+        "breed_height": "25-46 см",
+        "breed_life_expectancy": "14-16 лет"
+    },
+    {
+        "breed_name": "Американский кокер-спаниель",
+        "breed_img": "https://lapkins.ru/upload/iblock/721/7214fa768d8df6c4384ce3ab7351b7bb.jpg",
+        "breed_descr": "Американский кокер-спаниель – ближайший родственник английского кокер-спаниеля, отличающийся от своего европейского «кузена» более миниатюрной комплекцией и элегантной длинной шерстью.",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "7-14 кг",
+        "breed_height": "кобели 36,8-39,4 см, суки 34,3-36,8 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Американский стаффордширский терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/8d4/8d4956413c8aa7492902161b5cb397f6.jpg",
+        "breed_descr": "Американский стаффордширский терьер — воин без страха и упрека, сильный, умный и преданный пес, способный без раздумий встать на вашу защиту и биться до конца.",
+        "breed_country": "США",
+        "breed_birth_time": "1936 год",
+        "breed_weight": "кобели 25-30 кг, суки 22-25 кг",
+        "breed_height": "кобели 46-48 см, суки 43-46 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Бостон-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/51b/51bfa62f60d3ffb22ed9b145cf71e7d8.jpg",
+        "breed_descr": "Бостон-терьер – небольшая декоративная порода собак со сплющенной мордочкой, большими глазами и пятнистым окрасом шерсти, выведенная в США путем скрещивания английского бульдога с английским терьером.",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "3-11 кг",
+        "breed_height": "23-38 см",
+        "breed_life_expectancy": "11-15 лет"
+    },
+    {
+        "breed_name": "Кокапу",
+        "breed_img": "https://lapkins.ru/upload/iblock/aa4/octqp7b7eis2l972tlwifol826ij62w8.jpg",
+        "breed_descr": "Кокапу – дизайнерская порода собак, полученная в результате скрещивания американского кокер-спаниеля и пуделя.",
+        "breed_country": "США",
+        "breed_birth_time": "1960-е",
+        "breed_weight": "9,1-10,9 кг",
+        "breed_height": "36-38 см",
+        "breed_life_expectancy": "13-16 лет"
+    },
+    {
+        "breed_name": "Пагль",
+        "breed_img": "https://lapkins.ru/upload/iblock/27c/g03ybu975jvkzcb5520wd1if364byzaa.jpg",
+        "breed_descr": "Пагль – метис мопса и бигля, находящийся в неофициальном статусе дизайнерской породы. Умен, дружелюбен, в меру активен. Экстерьером пагль напоминает уменьшенную копию мастифа, но без ярко выраженных брылей. ",
+        "breed_country": "США",
+        "breed_birth_time": "1880-е",
+        "breed_weight": "8-13 кг",
+        "breed_height": "33-38 см",
+        "breed_life_expectancy": "11-14 лет"
+    },
+    {
+        "breed_name": "Питбуль",
+        "breed_img": "https://lapkins.ru/upload/iblock/808/80881682442656bc6de5774431e03ef5.jpg",
+        "breed_descr": "Питбуль, или американский питбультерьер – служебная порода. Она появилась в результате скрещивания терьеров и английских бульдогов.",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 16-27 кг, суки 14-23 кг",
+        "breed_height": "кобели 46-53 см, суки 43-51 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Помски",
+        "breed_img": "https://lapkins.ru/upload/iblock/728/7285567cdb5d4b7ae8e13ba846a1c963.jpg",
+        "breed_descr": "Помски – помесь хаски и померанского шпица, не признанная кинологическими ассоциациями и не имеющая статуса самостоятельной породы.",
+        "breed_country": "США",
+        "breed_birth_time": "2013 год",
+        "breed_weight": "5-7 кг",
+        "breed_height": "30-40 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Сибирский хаски",
+        "breed_img": "https://lapkins.ru/upload/iblock/325/325283728e9b607099b05b329accfe28.jpg",
+        "breed_descr": "Сибирский хаски – одна из древнейших пород собак, на протяжении многих веков верой и правдой служащая человеку.",
+        "breed_country": "Россия (согласно FCI – США)",
+        "breed_birth_time": "1966 год",
+        "breed_weight": "кобели 20-28 кг, суки 16-23 кг",
+        "breed_height": "кобели 53-60 см, суки 51-56 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Чесапик-бей-ретривер",
+        "breed_img": "https://lapkins.ru/upload/iblock/760/q081nva4oresbwcnramkklvou32filaz.jpg",
+        "breed_descr": "Чесапик-бей-ретривер – американская порода собак, выведенная специально для охоты на водоплавающую дичь в жестких погодных условиях.",
+        "breed_country": "США",
+        "breed_birth_time": "1878 год",
+        "breed_weight": "кобели 29,5-36,5 кг, суки 25-32кг",
+        "breed_height": "кобели 58-66 см, суки 53-61 см",
+        "breed_life_expectancy": "10-13 лет"
+    }
+]

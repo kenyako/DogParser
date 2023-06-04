@@ -1,0 +1,112 @@
+[
+    {
+        "breed_name": "Американский бандог",
+        "breed_img": "https://lapkins.ru/upload/iblock/9c3/3umyn3uoddl1v807d6h0al1zps8z130b.jpg",
+        "breed_descr": "Американский бандог – потомок амстаффов, питбулей и мастифов, изначально выведенный для участия в собачьих боях. В сегодняшних реалиях чаще используется как сторожевая порода.",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "45-68 кг",
+        "breed_height": "не менее 50 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Американский булли",
+        "breed_img": "https://lapkins.ru/upload/iblock/c11/c11f6b3cba1cfa5abaa0aa4654479127.jpg",
+        "breed_descr": "Американский булли – бодибилдер в мире собак. При взгляде на этого приземистого крепыша с оскалом хищника, с трудом верится в дружелюбие и кроткий нрав животного. Тем не менее, долой стереотипы!",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "30-58 кг",
+        "breed_height": "40-57 см",
+        "breed_life_expectancy": "8-12 лет"
+    },
+    {
+        "breed_name": "Американский стаффордширский терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/8d4/8d4956413c8aa7492902161b5cb397f6.jpg",
+        "breed_descr": "Американский стаффордширский терьер — воин без страха и упрека, сильный, умный и преданный пес, способный без раздумий встать на вашу защиту и биться до конца.",
+        "breed_country": "США",
+        "breed_birth_time": "1936 год",
+        "breed_weight": "кобели 25-30 кг, суки 22-25 кг",
+        "breed_height": "кобели 46-48 см, суки 43-46 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Аргентинский дог",
+        "breed_img": "https://lapkins.ru/upload/iblock/24a/24a7c7d93848692d34fe702f292ae9d5.jpg",
+        "breed_descr": "Аргентинский дог – настоящий джентльмен, обладающий рядом достоинств. Среди них – благородство, смелость и неутолимая жажда жизни.",
+        "breed_country": "Аргентина",
+        "breed_birth_time": "1928 год",
+        "breed_weight": "кобели 40-45 кг, суки 40-43 кг",
+        "breed_height": "кобели 60-68 см, суки 60-65 см",
+        "breed_life_expectancy": "10-18 лет"
+    },
+    {
+        "breed_name": "Бультерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/155/1551a67206f254d7314425b17f1d57f1.jpg",
+        "breed_descr": "Бультерьер – потомственный английский аристократ в белоснежном «костюме» с иголочки. Его угрожающий внешний вид лишь маска, под которой скрывается компанейский характер.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "23-32 кг",
+        "breed_height": "53-56 см",
+        "breed_life_expectancy": "11-14 лет"
+    },
+    {
+        "breed_name": "Бурбуль",
+        "breed_img": "https://lapkins.ru/upload/iblock/ac5/ac5c35296db807ff0bade5b9b8c98b15.jpg",
+        "breed_descr": "Бурбуль – южноафриканская порода крупных рабочих собак, известных своей выносливостью и развитым защитно-караульным инстинктом.",
+        "breed_country": "Южная Африка",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 65-80 кг, суки 50-65 кг",
+        "breed_height": "кобели 64-70 см, суки 59-65 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Канарский дог",
+        "breed_img": "https://lapkins.ru/upload/iblock/dc5/dc561b12f18840acd5356be0f3452ccc.jpg",
+        "breed_descr": "Канарский дог – порода молоссоподобных собак с обостренными территориальным и сторожевым инстинктами, зародившаяся на островах Канарского архипелага.",
+        "breed_country": "Испания",
+        "breed_birth_time": "",
+        "breed_weight": "кобели от 50 кг, суки от 40 кг",
+        "breed_height": "кобели 60-65 см, суки 56-61 см",
+        "breed_life_expectancy": "9-11 лет"
+    },
+    {
+        "breed_name": "Кане-корсо",
+        "breed_img": "https://lapkins.ru/upload/iblock/48d/48d5bdc12f48db8a57c0bb14ef0b32c8.jpg",
+        "breed_descr": "Кане-корсо – крупная порода, потомок боевых собак Древнего Рима. На протяжении веков эти умные и послушные псы служили своим хозяевам, охраняя их дома, помогая на охоте и в поле.",
+        "breed_country": "Италия",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 45-50 кг, суки 40-45 кг",
+        "breed_height": "кобели 64-68 см, суки 60-64 см",
+        "breed_life_expectancy": "9-11 лет"
+    },
+    {
+        "breed_name": "Питбуль",
+        "breed_img": "https://lapkins.ru/upload/iblock/808/80881682442656bc6de5774431e03ef5.jpg",
+        "breed_descr": "Питбуль, или американский питбультерьер – служебная порода. Она появилась в результате скрещивания терьеров и английских бульдогов.",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 16-27 кг, суки 14-23 кг",
+        "breed_height": "кобели 46-53 см, суки 43-51 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Стаффордширский бультерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/9ee/9eeea860af6408a02f9d4120979bf5ef.jpg",
+        "breed_descr": "Стаффордширский бультерьер – невысокая, широкогрудая собака-компаньон, конечный «продукт» вязки бульдога и английского терьера. Первоначально порода использовалась для травли крыс и участия в собачьих боях.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 12,7-17 кг, суки 11-15,4 кг",
+        "breed_height": "35,5-40,5 см, рост пропорционален весу",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Тоса-ину",
+        "breed_img": "https://lapkins.ru/upload/iblock/b22/b22046f8cf6760f4ca836a61272fedd2.jpg",
+        "breed_descr": "Тоса-ину (японский мастиф, тоса-токэн, токийская бойцовая собака) – порода крупных молоссоподобных собак, выведенная в Японии для участия в боях. ",
+        "breed_country": "Япония",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "45-90 кг",
+        "breed_height": "кобели от 60 см, суки от 55 см",
+        "breed_life_expectancy": "8-12 лет"
+    }
+]

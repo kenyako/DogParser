@@ -1,0 +1,202 @@
+[
+    {
+        "breed_name": "Аффенпинчер",
+        "breed_img": "https://lapkins.ru/upload/iblock/9be/9be8c6987511e69e726c7d23f694bab5.jpg",
+        "breed_descr": "Аффенпинчер – карликовый представитель группы пинчеров с жесткой шерстью по корпусу и длинной косматой растительностью на морде.",
+        "breed_country": "Германия",
+        "breed_birth_time": "",
+        "breed_weight": "4-6 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": ""
+    },
+    {
+        "breed_name": "Бивер-йоркширский терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/637/wyg1vnxcut407e29zoqlluvz9fa3mm3b.jpg",
+        "breed_descr": "Бивер-йоркширский терьер – немецкая порода трехцветных собак-компаньонов. Она ведет свое происхождение от йоркширских терьеров.",
+        "breed_country": "Германия",
+        "breed_birth_time": "1980-е годы",
+        "breed_weight": "1,8-3,6 кг",
+        "breed_height": "17,8-27,9 см",
+        "breed_life_expectancy": "13-16 лет"
+    },
+    {
+        "breed_name": "Боксер",
+        "breed_img": "https://lapkins.ru/upload/iblock/0d3/0d330b90f354e0aa5941e40c39a40e2f.jpg",
+        "breed_descr": "Немецкий боксёр, или просто боксер – представитель крупной, коренастой и гладкошерстной породы. Выведенный в Германии, он получил широкую известность благодаря отличным охранным качествам. Боксер становится для своего хозяина прекрасным компаньоном и настоящим другом.",
+        "breed_country": "Германия",
+        "breed_birth_time": "1850 год",
+        "breed_weight": "кобели ~30 кг, суки",
+        "breed_height": "кобели 57-63 см, суки 53-59 см",
+        "breed_life_expectancy": "11-12 лет"
+    },
+    {
+        "breed_name": "Веймаранер",
+        "breed_img": "https://lapkins.ru/upload/iblock/eaf/eaf324ea66f56d3f3d5d2d35d821768e.jpg",
+        "breed_descr": "Веймаранер – гончая, выделяющаяся аристократической красотой и атлетическим телосложением. Собака обладает универсальными охотничьими качествами и добрым нравом, снискавшим ей славу превосходного компаньона.",
+        "breed_country": "Германия",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 25-32 кг, суки 23-29 кг",
+        "breed_height": "кобели 59-70 см, суки 57-65 см",
+        "breed_life_expectancy": "10-13 лет"
+    },
+    {
+        "breed_name": "Доберман",
+        "breed_img": "https://lapkins.ru/upload/iblock/a5a/a5ac1cf0c810f673a0f4032b85fc9f6b.jpg",
+        "breed_descr": "Доберман – собака, самым удивительным образом сочетающая в себе высокий интеллект и преданность, бесстрашие и бдительность, силу и грацию.",
+        "breed_country": "Германия",
+        "breed_birth_time": "1890 год",
+        "breed_weight": "Кобели: 40-45 кг. Суки: 32-35 кг.",
+        "breed_height": "Кобели: 68-72 см. Суки: 63-68 см",
+        "breed_life_expectancy": "10-14 лет"
+    },
+    {
+        "breed_name": "Дратхаар",
+        "breed_img": "https://lapkins.ru/upload/iblock/918/9187cde6276bfec8b445d7bab68989cd.jpg",
+        "breed_descr": "Дратхаар или немецкая жесткошерстная легавая – лучший друг охотника, отлично зарекомендовавший себя при работе как с мелкой, так и крупной дичью.",
+        "breed_country": "Германия",
+        "breed_birth_time": "конец XIX века",
+        "breed_weight": "23-32 кг",
+        "breed_height": "кобели 61-68 см, суки 57-64 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Карликовая такса",
+        "breed_img": "https://lapkins.ru/upload/iblock/70a/70a66036a7174161902b5ddbadf00673.jpg",
+        "breed_descr": "Карликовая такса (миниатюрная такса, мини-такса) – ближайшая родственница стандартной таксы, имеющая такой же экстерьер, но уступающая ей в размерах. По габаритам порода является «промежуточным звеном» между стандартной и кроличьей таксами.",
+        "breed_country": "Германия",
+        "breed_birth_time": "",
+        "breed_weight": "4-5 кг",
+        "breed_height": "около 30 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Кеесхонд",
+        "breed_img": "https://lapkins.ru/upload/iblock/374/374dee7105ead3cf247fcc08ee58c0e1.jpg",
+        "breed_descr": "Кеесхонд – разновидность немецких вольфшпицев, появившаяся на свет благодаря стараниям голландских селекционеров. Все представители породы имеют двойную длинную шерсть волчьего окраса и отличаются живым темпераментом.",
+        "breed_country": "Германия",
+        "breed_birth_time": "",
+        "breed_weight": "25-30 кг",
+        "breed_height": "43-55 см",
+        "breed_life_expectancy": "14-15 лет"
+    },
+    {
+        "breed_name": "Курцхаар",
+        "breed_img": "https://lapkins.ru/upload/iblock/1e7/1e7295ba6ec80f1ad7709b4ebff1d697.jpg",
+        "breed_descr": "Курцхаар – заводная игрушка, которая не знает покоя. Энергия собаки бьёт ключом, вовлекая её в авантюры. Это универсальная охотничья порода, умениям которой легко найти применение.",
+        "breed_country": "Германия",
+        "breed_birth_time": "начало XIX века",
+        "breed_weight": "кобели 25-32 кг, суки 20-27 кг",
+        "breed_height": "кобели 62-66 см, суки 58-63 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Леонбергер",
+        "breed_img": "https://lapkins.ru/upload/iblock/3f8/3f8ffbf9639e2c6370001b553ee32280.jpg",
+        "breed_descr": "Леонбергер – порода крупногабаритных лохматых собак с черной маской на морде, выведенная в одном из юго-западных регионов Германии.",
+        "breed_country": "Германия",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 59-77 кг, суки 45-59 кг",
+        "breed_height": "кобели 74-80 см, суки 61-74 см",
+        "breed_life_expectancy": "9-11 лет"
+    },
+    {
+        "breed_name": "Немецкая овчарка",
+        "breed_img": "https://lapkins.ru/upload/iblock/212/212adec96be4631fe2fa0584225b83ff.jpg",
+        "breed_descr": "Немецкая овчарка живет бок о бок с человеком с незапамятных времен. Сегодня она является одной из самых популярных и узнаваемых пород собак на планете.",
+        "breed_country": "Германия",
+        "breed_birth_time": "конец XIX века",
+        "breed_weight": "кобели 30-40 кг, суки 22-32 кг",
+        "breed_height": "кобели 60-65 см, суки 55-60 см",
+        "breed_life_expectancy": "10-13 лет"
+    },
+    {
+        "breed_name": "Немецкий дог",
+        "breed_img": "https://lapkins.ru/upload/iblock/1b7/1b7c5e0b8985093c3b8bfc75f13ba83c.jpg",
+        "breed_descr": "Немецкий дог – настоящий аристократ собачьего мира. Он покоряет сердца величественной красотой, интеллектом, ласковым отношением к домочадцам и прекрасными охранными качествами.",
+        "breed_country": "Германия",
+        "breed_birth_time": "1878 год",
+        "breed_weight": "50-80 кг",
+        "breed_height": "кобели 80-90 см, суки 72-84 см",
+        "breed_life_expectancy": "8 – 10 лет"
+    },
+    {
+        "breed_name": "Немецкий пинчер",
+        "breed_img": "https://lapkins.ru/upload/iblock/996/996ddd57f53f9118ad9f7218a8807779.jpg",
+        "breed_descr": "Немецкий пинчер – редкая порода черно-подпалых и красно-бурых собак, разводившихся в Германии с XVIII века. Наиболее известные потомки пинчеров – ротвейлеры, доберманы, аффенпинчеры и цвергпинчеры.",
+        "breed_country": "Германия",
+        "breed_birth_time": "1879",
+        "breed_weight": "13-18 кг",
+        "breed_height": "45-50 см",
+        "breed_life_expectancy": "13-16 лет"
+    },
+    {
+        "breed_name": "Немецкий ягдтерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/861/86116848fdc287939c9af57d7638361f.jpg",
+        "breed_descr": "Немецкий ягдтерьер – близкий родственник фокстерьера и универсальный охотник, профессионально работающий с норным зверем, птицей и прочими видами дичи.",
+        "breed_country": "Германия",
+        "breed_birth_time": "1930-1940-е годы",
+        "breed_weight": "кобели 9-10 кг, суки 7,5-8,5 кг",
+        "breed_height": "33-40 см",
+        "breed_life_expectancy": "9-13 лет"
+    },
+    {
+        "breed_name": "Померанский шпиц",
+        "breed_img": "https://lapkins.ru/upload/iblock/ae6/ae61432957b8583f7c9952f15937c586.jpg",
+        "breed_descr": "Померанский шпиц выглядит как детская игрушка. Этот пушистый колобочек станет верным другом и звонким лаем скрасит самый пасмурный день.",
+        "breed_country": "Германия",
+        "breed_birth_time": "XVIII век",
+        "breed_weight": "1,4-3,2 кг (желательно около 2 кг)",
+        "breed_height": "18-22 см",
+        "breed_life_expectancy": "12-16 лет"
+    },
+    {
+        "breed_name": "Ризеншнауцер",
+        "breed_img": "https://lapkins.ru/upload/iblock/709/709009659acc154ee0df9db563bcebed.jpg",
+        "breed_descr": "Ризеншнауцер – собака-универсал, выведенная на юге Германии для пастушеской, охранной, а в дальнейшем и сыскной деятельности. Отличается фактурной внешностью, благодаря  длинной украшающей шерсти на морде.",
+        "breed_country": "Германия",
+        "breed_birth_time": "XVII век",
+        "breed_weight": "35-47 кг",
+        "breed_height": "60-70 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Ротвейлер",
+        "breed_img": "https://lapkins.ru/upload/iblock/2ba/2ba727577729810222fac27e266e04ef.jpg",
+        "breed_descr": "Ротвейлер – прирожденный защитник и надежный охранник с сильным независимым характером. Умен, серьезен и бесконечно предан хозяину.",
+        "breed_country": "Германия",
+        "breed_birth_time": "середина XVIII века",
+        "breed_weight": "кобели ~50 кг, суки ~45 кг",
+        "breed_height": "кобели 61-70 см, суки",
+        "breed_life_expectancy": "11-12 лет"
+    },
+    {
+        "breed_name": "Такса",
+        "breed_img": "https://lapkins.ru/upload/iblock/53b/53b92eec713e2c552ebc1f1001a0a350.jpg",
+        "breed_descr": "Такса – пример удивительного контраста между непримечательной на первый взгляд внешностью и совершенством  внутреннего содержания.",
+        "breed_country": "Германия",
+        "breed_birth_time": "XVI век",
+        "breed_weight": "до 12 кг",
+        "breed_height": "до 35 см",
+        "breed_life_expectancy": "10-13 лет"
+    },
+    {
+        "breed_name": "Цвергпинчер",
+        "breed_img": "https://lapkins.ru/upload/iblock/77a/77a1906405224249bdfc14d72fd367d1.jpg",
+        "breed_descr": "Цвергпинчер – миниатюрный, но весьма крепко сложенный красавец, энергичный, бесстрашный и уверенный в себе. Он эмоционален, ласков и чрезвычайно общителен.",
+        "breed_country": "Германия",
+        "breed_birth_time": "XVIII век",
+        "breed_weight": "4-6 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": "13-15 лет"
+    },
+    {
+        "breed_name": "Цвергшнауцер",
+        "breed_img": "https://lapkins.ru/upload/iblock/ba8/ba827c035a3530306f737c3a2e2b4740.jpg",
+        "breed_descr": "Цвергшнауцер – маленькая, но крепкая, темпераментная и жизнерадостная собака. За ее эффектной и безобидной внешностью скрывается весьма серьезный характер.",
+        "breed_country": "Германия",
+        "breed_birth_time": "1888 год",
+        "breed_weight": "4-8 кг",
+        "breed_height": "30-35 см",
+        "breed_life_expectancy": "12-15 лет"
+    }
+]

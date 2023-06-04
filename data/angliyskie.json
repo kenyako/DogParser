@@ -1,0 +1,372 @@
+[
+    {
+        "breed_name": "Английский бульдог",
+        "breed_img": "https://lapkins.ru/upload/iblock/9a7/9a72d195c7b2eb2cc9a39dba2ab1c233.jpg",
+        "breed_descr": "Английский бульдог – мощная, коренастая собака с отлично развитой мускулатурой. За невозмутимый характер, природный ум и чистоплотность бульдога называют «английским джентльменом».",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 24-25 кг, суки 22-23 кг",
+        "breed_height": "около 40 см",
+        "breed_life_expectancy": "7-10 лет"
+    },
+    {
+        "breed_name": "Английский кокер-спаниель",
+        "breed_img": "https://lapkins.ru/upload/iblock/ed9/ed93b033c39f22c5b594c0c80f34f8be.jpg",
+        "breed_descr": "Английский кокер-спаниель – подружейная охотничья собака, выведенная в Великобритании специально для поиска и подъема под выстрел пернатой дичи.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "13-14,5 кг",
+        "breed_height": "кобели 39-41 см, суки 38-39 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Английский мастиф",
+        "breed_img": "https://lapkins.ru/upload/iblock/8fa/8fa0685444078808ed14bdf5b03d7ec7.jpg",
+        "breed_descr": "Английский мастиф – настоящий герой сказок о мирных великанах! В противовес грозному и внушительному виду эта собака отличается мягким и добродушным нравом. ",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "кобели около 72 кг, суки около 68 кг",
+        "breed_height": "кобели от 76 см, суки от 69 см",
+        "breed_life_expectancy": "9-11 лет"
+    },
+    {
+        "breed_name": "Английский пойнтер",
+        "breed_img": "https://lapkins.ru/upload/iblock/c9b/c9bcf1d2be348d424060f4bf3a90f820.jpg",
+        "breed_descr": "Английский пойнтер – представитель группы гладкошерстных легавых родом из Великобритании. Порода ценится за выдающееся чутье и контактность, позволяющую ее представителям ладить с семьей владельца и домашними животными.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "20-30 кг",
+        "breed_height": "кобели 63-69 см, суки 61-66 см",
+        "breed_life_expectancy": "12-13 лет"
+    },
+    {
+        "breed_name": "Английский сеттер",
+        "breed_img": "https://lapkins.ru/upload/iblock/bfb/bfb0ef31133662f4b0def167b5b75477.jpg",
+        "breed_descr": "Английский сеттер – дружелюбное и ласковое создание, чей характер сочетает детскую игривость и манеры аристократа. Ни то, ни другое не мешает животному быть великолепным охотником.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 25-36 кг, суки 20-32 кг",
+        "breed_height": "кобели 65-68 см, суки 61-65 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Английский той-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/aa5/kjcm7a5hmznogw7rntxtsqsjte2axjxt.jpg",
+        "breed_descr": "Английский той-терьер – гладкошерстная порода мелких терьеров черно-подпалой масти родом из Великобритании. ",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "2,7-3,6 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": "10-13 лет"
+    },
+    {
+        "breed_name": "Бассет-хаунд",
+        "breed_img": "https://lapkins.ru/upload/iblock/178/17857d5d64a088a571464b2a524d0723.jpg",
+        "breed_descr": "Бассет-хаунд – массивный брудастый «британец» из секции гончих с экстремально низкой посадкой и длинными ушами.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XX век",
+        "breed_weight": "кобели 25-34 кг, суки 20-29 кг",
+        "breed_height": "кобели 30-38 см, суки 28-36 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Бедлингтон-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/83e/83eeac68250073efa9c144d031d9b5c2.jpg",
+        "breed_descr": "Бедлингтон-терьер – английская порода собак, напоминающая гибрид ягненка и пуделя. Исторически бедлингтоны разводились для охоты на некрупную дичь и грызунов, а сегодня чаще встречаются в роли семейных питомцев. ",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "8-10 кг",
+        "breed_height": "около 41 см",
+        "breed_life_expectancy": "11-16 лет"
+    },
+    {
+        "breed_name": "Бигль",
+        "breed_img": "https://lapkins.ru/upload/iblock/c35/c354befe4fd9dc1c6f7baaf41fa80d74.jpg",
+        "breed_descr": "Бигль относится к гончим породам собак. Этот весёлый добряк станет отличным другом: любящим, терпеливым и, что важно, неприхотливым в уходе.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "8-18 кг",
+        "breed_height": "33-40 см",
+        "breed_life_expectancy": "11-15 лет"
+    },
+    {
+        "breed_name": "Бобтейл",
+        "breed_img": "https://lapkins.ru/upload/iblock/041/041f4abbca28dd07dae255b64ca37836.jpg",
+        "breed_descr": "",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "1888 год",
+        "breed_weight": " 27-46 кг",
+        "breed_height": "кобели от 61 см, суки от 56 см",
+        "breed_life_expectancy": "12-13 лет"
+    },
+    {
+        "breed_name": "Бордер-колли",
+        "breed_img": "https://lapkins.ru/upload/iblock/cb4/cb4b0e1ebffea8d8840c5d68529df853.jpg",
+        "breed_descr": "Бордер-колли – самая умная порода в мире, используется как компаньон или рабочая собака. С большим желанием «пасет» все живое, даже человека, если рядом нет овец или коров.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "1570 год",
+        "breed_weight": "15-20 кг",
+        "breed_height": "кобели 50-53 см, суки",
+        "breed_life_expectancy": "12 – 15 лет"
+    },
+    {
+        "breed_name": "Бордер-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/aab/aab34a0f98d67e5b7160bfea9b0e6159.jpg",
+        "breed_descr": "Бордер-терьер – небольшая порода охотничьих собак из Великобритании, очень активная, прекрасный компаньон для людей всех возрастов.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "середина XIX века",
+        "breed_weight": "5-7 кг",
+        "breed_height": "35-40 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Бульмастиф",
+        "breed_img": "https://lapkins.ru/upload/iblock/a0a/a0a5d60d572e841f0ed6243471d1042f.jpg",
+        "breed_descr": "Бульмастиф – ответственный сторож и неутомимый компаньон, ведущий свою родословную от английских бульдогов и мастифов. Бесконечно ласков к владельцу и членам его семьи, но всегда насторожен в отношении незнакомцев.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "1924 год",
+        "breed_weight": "кобели 50-59 кг, суки 40-50 кг",
+        "breed_height": "кобели 63-69 см, суки 61-66 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Бультерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/155/1551a67206f254d7314425b17f1d57f1.jpg",
+        "breed_descr": "Бультерьер – потомственный английский аристократ в белоснежном «костюме» с иголочки. Его угрожающий внешний вид лишь маска, под которой скрывается компанейский характер.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "23-32 кг",
+        "breed_height": "53-56 см",
+        "breed_life_expectancy": "11-14 лет"
+    },
+    {
+        "breed_name": "Вельш-корги кардиган",
+        "breed_img": "https://lapkins.ru/upload/iblock/c0b/c0b931451d53ccc8eb5719cf559cfcf2.jpg",
+        "breed_descr": "Вельш-корги кардиган – небольшая пастушья овчарка с вытянутым корпусом и короткими, крепкими ножками, имеющая сильное внешнее сходство с вельш-корги пемброком. Порода выведена в Англии, обладает невозмутимым и доброжелательным характером.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 14-17 кг, суки 12-15 кг",
+        "breed_height": "кобели 27-32 см, суки 25-30 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Вельш-корги пемброк",
+        "breed_img": "https://lapkins.ru/upload/iblock/9af/9af916d1cf3fb7990d7618dd6861ec43.jpg",
+        "breed_descr": "Вельш-корги пемброк – удивительная собака, любимая порода Ее Величества королевы Великобритании Елизаветы ІІ, маленькая овчарка с большим и бесстрашным сердцем.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "X век",
+        "breed_weight": "9-13 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": "9-12 лет"
+    },
+    {
+        "breed_name": "Вельштерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/d7f/d7f1633c7e0f41b32e6de37e63c131d5.jpg",
+        "breed_descr": "Вельштерьер (уэльский терьер, вельш) – порода норных собак чепрачного окраса, напоминающих уменьшенные копии эрдельтерьеров.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "9-9,5 кг",
+        "breed_height": "до 39 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Вест-хайленд-уайт-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/09f/09f78d0c57156a58c3cad34c111f059c.jpg",
+        "breed_descr": "Вест-хайленд-уайт-терьер – миниатюрный «шотландец» с белоснежной шерсткой, выведенный специально для работы с мелкой дичью. В повседневной жизни смел, любознателен и очень игрив.",
+        "breed_country": "Шотландия",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 7-10 кг, суки 6-7 кг",
+        "breed_height": "кобели 25-30 см, суки 23-28 см",
+        "breed_life_expectancy": "12-16 лет"
+    },
+    {
+        "breed_name": "Грейхаунд",
+        "breed_img": "https://lapkins.ru/upload/iblock/4af/4af20db77d745c640f94d918d4b45ff6.jpg",
+        "breed_descr": "Грейхаунд – самая быстрая порода в мире, основными «квалификациями» которой считаются охота на полевую дичь и бега.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 29-32 кг, суки 27-29 кг",
+        "breed_height": "кобели 71-77 см, суки 68-71 см",
+        "breed_life_expectancy": "9 – 11 лет"
+    },
+    {
+        "breed_name": "Джек-рассел-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/a02/a027665dded6df37d45e2c2a6c304b28.jpg",
+        "breed_descr": "Джек-рассел-терьер – узнаваемая и популярная порода собак. Это питомец, с которым вам не придется скучать ни минуты.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "первая половина XIX века",
+        "breed_weight": "5-7 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": "13-16 лет"
+    },
+    {
+        "breed_name": "Дирхаунд",
+        "breed_img": "https://lapkins.ru/upload/iblock/2ac/lcjdjhtgh2slq2pohp4p1mfqgn80lxa7.jpg",
+        "breed_descr": "Дирхаунд (шотландская оленья борзая) – жесткошерстная охотничья собака, превосходно работающая в условиях гористой и пересеченной местности. Внешне напоминает ирландского волкодава, но с более изящным силуэтом. Выводилась для охоты на копытных.",
+        "breed_country": "Шотландия",
+        "breed_birth_time": "1955 год",
+        "breed_weight": "кобели ≈ 45,5 кг, суки ≈ 36 кг",
+        "breed_height": "кобели от 76 см, суки от 71 см",
+        "breed_life_expectancy": "8-11 лет"
+    },
+    {
+        "breed_name": "Золотистый ретривер",
+        "breed_img": "https://lapkins.ru/upload/iblock/249/249483cc29c8f7316027872ed67ca526.jpg",
+        "breed_descr": "Золотистый ретривер – отличный компаньон и лучший друг охотника. Добродушен, спокоен, великолепно апортирует подстреленную дичь.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "кобели 26-41 кг, суки 25-37 кг",
+        "breed_height": "кобели 56-61 см, суки 51-56 см",
+        "breed_life_expectancy": "12 – 13 лет"
+    },
+    {
+        "breed_name": "Йоркширский терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/305/3052ffceecb0392a4bd66c672ac78a71.jpg",
+        "breed_descr": "Йоркширский терьер – одна из самых популярных в мире комнатно-декоративных пород собак. Йорк очарователен внешне, энергичен, ласков и является отличным компаньоном.",
+        "breed_country": "Англия",
+        "breed_birth_time": "конец XIX века",
+        "breed_weight": "2-3,2 кг",
+        "breed_height": "15-17 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Кавалер-кинг-чарльз-спаниель",
+        "breed_img": "https://lapkins.ru/upload/iblock/b48/b485acd675a27aac77d3a42829a213ed.jpg",
+        "breed_descr": "Кавалер-кинг-чарльз-спаниель – развеселый лохматый непоседа, обладающий выразительной, кокетливой внешностью и добродушным характером. Оживит собственным присутствием любой дом и отлично справится с ролью надежного компаньона.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XVII век",
+        "breed_weight": "от 5,5 до 8 кг",
+        "breed_height": "до 32 см",
+        "breed_life_expectancy": "11-12 лет"
+    },
+    {
+        "breed_name": "Керн-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/e00/e00878f7ff3ef8efa2f9b4932cc2199b.jpg",
+        "breed_descr": "Керн-терьер – одна из старейших пород шотландских терьеров, издревле специализировавшаяся на ловле лис и грызунов. Это энергичная, позитивная собака-компаньон с жесткой топорщащейся шерстью и острыми стоячими ушами.",
+        "breed_country": "Шотландия",
+        "breed_birth_time": "",
+        "breed_weight": "6-9 кг",
+        "breed_height": "28-31 см",
+        "breed_life_expectancy": "13-15 лет"
+    },
+    {
+        "breed_name": "Лабрадор-ретривер",
+        "breed_img": "https://lapkins.ru/upload/iblock/f09/f09005e451fc6fcacdbcabc6d2f1de09.jpg",
+        "breed_descr": "Лабрадор – одна из самых популярных пород в современном мире. Это идеальный питомец для семей с детьми, охотников, спасателей и людей с ограниченными возможностями.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "кобели 27-34 кг, суки 25-32 кг",
+        "breed_height": "кобели 56-57 см, суки 54-56 см",
+        "breed_life_expectancy": "12-13 лет"
+    },
+    {
+        "breed_name": "Мини-бультерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/798/7981540ecc0f3d9da3919e25833b47fc.jpg",
+        "breed_descr": "Мини-бультерьер – британская порода собак, ведущая свое происхождение от стандартных бультерьеров и отличающаяся от них более компактным телосложением.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "1991 год",
+        "breed_weight": "не больше 8 кг",
+        "breed_height": "25-35 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Норвич-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/052/052b31c84bf7b1d943721130161d5495.jpg",
+        "breed_descr": "Норвич-терьер – очаровательная «зажигалочка» в мире собак. Этот бойкий и любопытный малыш станет главным источником положительных эмоций в вашей семье, ведь на него без улыбки не глянешь!",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "5,5 кг",
+        "breed_height": "25-26 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Парсон-рассел-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/061/06138526117682773b188ede60c85ec4.jpg",
+        "breed_descr": "Парсон-рассел-терьер – английская порода небольших бело-пятнистых собак, выведенная для норной охоты на лису и барсука.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "6-8 кг",
+        "breed_height": "33-36 см",
+        "breed_life_expectancy": "13-15 лет"
+    },
+    {
+        "breed_name": "Скотч-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/dc1/dc1145c66f561e1c2a3ef13f49c53c7c.jpg",
+        "breed_descr": "Скотч-терьер или шотландский терьер – в прошлом непревзойденный специалист по норной охоте, сегодня – эффектный городской компаньон. Остроух, компактен, имеет жесткую косматую шерсть.",
+        "breed_country": "Шотландия",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 8,5-10 кг, суки 8,5-10 кг",
+        "breed_height": "25-28 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Стаффордширский бультерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/9ee/9eeea860af6408a02f9d4120979bf5ef.jpg",
+        "breed_descr": "Стаффордширский бультерьер – невысокая, широкогрудая собака-компаньон, конечный «продукт» вязки бульдога и английского терьера. Первоначально порода использовалась для травли крыс и участия в собачьих боях.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 12,7-17 кг, суки 11-15,4 кг",
+        "breed_height": "35,5-40,5 см, рост пропорционален весу",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Уиппет",
+        "breed_img": "https://lapkins.ru/upload/iblock/2e6/2e6d5a31889f7010533f85cf09f07bbe.jpg",
+        "breed_descr": "Уиппет – изящное гладкошерстное создание, в чьих жилах течет кровь грейхаундов. Порода была выведена в XIX веке для охоты на кроликов и участия в собачьих бегах.",
+        "breed_country": "Англия",
+        "breed_birth_time": "",
+        "breed_weight": "10-12 кг",
+        "breed_height": "кобели 47-51 см, суки 44-47 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Фокстерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/e97/e97ccbc887266f59553f392341b9fe64.jpg",
+        "breed_descr": "Фокстерьер – порода небольших, квадратного формата собак, традиционно специализировавшихся на норной охоте. На сегодняшний день фокстерьеры существуют в двух разновидностях – жесткошерстной и гладкошерстной.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "6-8 кг",
+        "breed_height": "35-40 см",
+        "breed_life_expectancy": "13 – 15 лет"
+    },
+    {
+        "breed_name": "Шелти",
+        "breed_img": "https://lapkins.ru/upload/iblock/1d3/1d31cded0921847926984dcd6bb5b7aa.jpg",
+        "breed_descr": "Шелти (шетландская овчарка) – уроженец северо-восточной Шотландии; веселый компаньон, ответственная нянька и преданный друг. ",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "6,8-11,3 кг",
+        "breed_height": "кобели 34-40 см, суки 32-37 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Шотландская овчарка (колли)",
+        "breed_img": "https://lapkins.ru/upload/iblock/128/1286da8e4827f9df9e47173635fbfca5.jpg",
+        "breed_descr": "Шотландская овчарка (колли) – крупная пастушья собака с удлиненной вытянутой мордой и обаятельным лукавым взглядом. С конца 90-х разводится в двух независимых друг от друга разновидностях – длинношерстной и короткошерстной.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XVII век",
+        "breed_weight": "кобели 26-34 кг, суки 19-26 кг",
+        "breed_height": "кобели 56-61 см, суки 51-56 см",
+        "breed_life_expectancy": "12-13 лет"
+    },
+    {
+        "breed_name": "Шотландский сеттер",
+        "breed_img": "https://lapkins.ru/upload/iblock/b41/6iwkcqf0j4ypaiz6e617slj0tecprwqt.jpg",
+        "breed_descr": "Шотландский сеттер – самый крупный в секции сеттеров, выведенный для подружейной охоты на степную и болотную дичь. В предках породы числятся исчезнувшие виды спаниелей, бладхаунды, пойнтеры, а также английский и ирландский сеттеры.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "1860 год",
+        "breed_weight": "кобели 25-36 кг, суки 20-32 кг",
+        "breed_height": "кобели 61-69 см, суки 58-66 см",
+        "breed_life_expectancy": "12-13 лет"
+    },
+    {
+        "breed_name": "Эрдельтерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/bc2/bc2978815e1d9a5cdc5057bee0d9449b.jpg",
+        "breed_descr": "Эрдельтерьер – британская порода охотничьих собак чепрачного окраса, выведенных для травли речных крыс и выдр. Отличается повышенной эмоциональностью и элегантным экстерьером: аккуратной, стильно растрепанной бородкой и жесткой шерстью по всему корпусу.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "середина XIX века",
+        "breed_weight": "~20 кг",
+        "breed_height": "кобели 58-61 см, суки 56-59 см",
+        "breed_life_expectancy": "11-13 лет"
+    }
+]

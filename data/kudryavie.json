@@ -1,0 +1,132 @@
+[
+    {
+        "breed_name": "Американский кокер-спаниель",
+        "breed_img": "https://lapkins.ru/upload/iblock/721/7214fa768d8df6c4384ce3ab7351b7bb.jpg",
+        "breed_descr": "Американский кокер-спаниель – ближайший родственник английского кокер-спаниеля, отличающийся от своего европейского «кузена» более миниатюрной комплекцией и элегантной длинной шерстью.",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "7-14 кг",
+        "breed_height": "кобели 36,8-39,4 см, суки 34,3-36,8 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Английский кокер-спаниель",
+        "breed_img": "https://lapkins.ru/upload/iblock/ed9/ed93b033c39f22c5b594c0c80f34f8be.jpg",
+        "breed_descr": "Английский кокер-спаниель – подружейная охотничья собака, выведенная в Великобритании специально для поиска и подъема под выстрел пернатой дичи.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "13-14,5 кг",
+        "breed_height": "кобели 39-41 см, суки 38-39 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Бедлингтон-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/83e/83eeac68250073efa9c144d031d9b5c2.jpg",
+        "breed_descr": "Бедлингтон-терьер – английская порода собак, напоминающая гибрид ягненка и пуделя. Исторически бедлингтоны разводились для охоты на некрупную дичь и грызунов, а сегодня чаще встречаются в роли семейных питомцев. ",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "8-10 кг",
+        "breed_height": "около 41 см",
+        "breed_life_expectancy": "11-16 лет"
+    },
+    {
+        "breed_name": "Бишон фризе",
+        "breed_img": "https://lapkins.ru/upload/iblock/6f3/6f3dac95ba1fea52efed069f2e512b1f.jpg",
+        "breed_descr": "Бишон фризе (французская болонка) – миниатюрный плюшевый «антидепрессант» и обаятельный шалун, с которым не придется скучать.",
+        "breed_country": "Франция, Бельгия",
+        "breed_birth_time": "",
+        "breed_weight": "2,5-3 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Вельштерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/d7f/d7f1633c7e0f41b32e6de37e63c131d5.jpg",
+        "breed_descr": "Вельштерьер (уэльский терьер, вельш) – порода норных собак чепрачного окраса, напоминающих уменьшенные копии эрдельтерьеров.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "9-9,5 кг",
+        "breed_height": "до 39 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Керри-блю-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/a0f/a0f0bff9e06765b34824d3848c6a119a.jpg",
+        "breed_descr": "Керри-блю-терьер – собака средних габаритов с изысканным голубым окрасом шерсти. Порода получила название в честь своей родины – ирландского графства Керри.",
+        "breed_country": "Ирландия",
+        "breed_birth_time": "",
+        "breed_weight": "15-18 кг",
+        "breed_height": "кобели 45,5-49,5 см, суки 44,5-48 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Кокапу",
+        "breed_img": "https://lapkins.ru/upload/iblock/aa4/octqp7b7eis2l972tlwifol826ij62w8.jpg",
+        "breed_descr": "Кокапу – дизайнерская порода собак, полученная в результате скрещивания американского кокер-спаниеля и пуделя.",
+        "breed_country": "США",
+        "breed_birth_time": "1960-е",
+        "breed_weight": "9,1-10,9 кг",
+        "breed_height": "36-38 см",
+        "breed_life_expectancy": "13-16 лет"
+    },
+    {
+        "breed_name": "Котон-де-тулеар",
+        "breed_img": "https://lapkins.ru/upload/iblock/c7e/9e0fars86n0gc3w7ta5ry3et4x1qff4l.jpg",
+        "breed_descr": "Котон-де-тулеар – небольшая декоративная собака с белой шерстью, структурой напоминающей содержимое коробочки хлопчатника.",
+        "breed_country": "Мадагаскар, Франция",
+        "breed_birth_time": "1970 год",
+        "breed_weight": "кобели 4-6 см, суки 3,5-5 см",
+        "breed_height": "кобели 25-30 см, суки 22-27 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Мальтипу",
+        "breed_img": "https://lapkins.ru/upload/iblock/159/15959a8ce3bdb1284f37aadabb9d2fe8.jpg",
+        "breed_descr": "Мальтипу – наполовину той-пудель, наполовину мальтийская болонка. Порода расценивается как дизайнерская, но остается не признанной международными кинологическими ассоциациями.",
+        "breed_country": "",
+        "breed_birth_time": "",
+        "breed_weight": "2,5-5 кг",
+        "breed_height": "20-30 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Пудель",
+        "breed_img": "https://lapkins.ru/upload/iblock/46c/46c48d510e99fd27d2b9d92eced1dfa4.jpg",
+        "breed_descr": "Пудель – элегантная и миловидная собака, славящаяся своей необычной кудрявой шерстью. Представители этой породы обладают живым характером, веселым нравом и очень смышленые.",
+        "breed_country": "Франция",
+        "breed_birth_time": "",
+        "breed_weight": "большой 20 – 30 кг, малый 8 – 14 кг, карликовый 6 – 8 кг, той ~2,5 кг",
+        "breed_height": "большой 45 – 60 см, малый 35 – 45 см, карликовый 28 – 35 см, той 24 – 28 см",
+        "breed_life_expectancy": "12 – 15 лет"
+    },
+    {
+        "breed_name": "Русский черный терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/b1f/b1f2a39155ff41379b0c49fc1f751303.jpg",
+        "breed_descr": "Русский черный терьер, он же черныш, он же РЧТ – служебная порода собак, выведенная советскими селекционерами. Идеальна в качестве компаньона, охранника, спасателя и поисковика.",
+        "breed_country": "СССР",
+        "breed_birth_time": "1950-е годы",
+        "breed_weight": "кобели 50-50 кг, суки 45-50см",
+        "breed_height": "кобели 66-72 см, суки 64-70 см",
+        "breed_life_expectancy": "10-11 лет"
+    },
+    {
+        "breed_name": "Скотч-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/dc1/dc1145c66f561e1c2a3ef13f49c53c7c.jpg",
+        "breed_descr": "Скотч-терьер или шотландский терьер – в прошлом непревзойденный специалист по норной охоте, сегодня – эффектный городской компаньон. Остроух, компактен, имеет жесткую косматую шерсть.",
+        "breed_country": "Шотландия",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 8,5-10 кг, суки 8,5-10 кг",
+        "breed_height": "25-28 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Эрдельтерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/bc2/bc2978815e1d9a5cdc5057bee0d9449b.jpg",
+        "breed_descr": "Эрдельтерьер – британская порода охотничьих собак чепрачного окраса, выведенных для травли речных крыс и выдр. Отличается повышенной эмоциональностью и элегантным экстерьером: аккуратной, стильно растрепанной бородкой и жесткой шерстью по всему корпусу.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "середина XIX века",
+        "breed_weight": "~20 кг",
+        "breed_height": "кобели 58-61 см, суки 56-59 см",
+        "breed_life_expectancy": "11-13 лет"
+    }
+]

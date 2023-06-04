@@ -1,0 +1,52 @@
+[
+    {
+        "breed_name": "Китайская хохлатая собака",
+        "breed_img": "https://lapkins.ru/upload/iblock/39a/39a8f33c4174a4636113e6c2b6c8cdbe.jpg",
+        "breed_descr": "Китайская хохлатая собака – имиджевая, комнатная порода, представители которой делятся на два типа: бесшерстных особей с полностью голым корпусом и пуховых, заросших длинным шелковистым волосом.",
+        "breed_country": "Китай",
+        "breed_birth_time": "",
+        "breed_weight": "2,3-5,5 кг",
+        "breed_height": "кобели 28-33 см, суки 23-30 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Мопс",
+        "breed_img": "https://lapkins.ru/upload/iblock/130/1309222f033fb6928ea065578276ab44.jpg",
+        "breed_descr": "Мопс является древней и неизменно популярной на протяжении всей своей истории породой. Это прекрасная собака-компаньон для городских жителей.",
+        "breed_country": "Древний Китай",
+        "breed_birth_time": "",
+        "breed_weight": "6-8 кг",
+        "breed_height": "28-32 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Пекинес",
+        "breed_img": "https://lapkins.ru/upload/iblock/b61/b61169457eab98ed122cda7e99579a5a.jpg",
+        "breed_descr": "Пекинес – древняя порода декоративных собак с короткими лапами, «сплющенными» мордочками и пушистой шерстью, выведенная в Китае.",
+        "breed_country": "Китай",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 3,2-5,0 кг, суки 3,6-5,4 кг",
+        "breed_height": "15-25 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Чау-чау",
+        "breed_img": "https://lapkins.ru/upload/iblock/bd8/bd8964762e27a154083cf5a074971aae.jpg",
+        "breed_descr": "Чау-чау – собака с поразительной внешностью, историей, овеянной легендами и удивительным, до конца не познанным характером.",
+        "breed_country": "Китай",
+        "breed_birth_time": "1957 год",
+        "breed_weight": "кобели 25-32 кг, суки 20-27 см",
+        "breed_height": "кобели 48-56 см, суки 46-51 см",
+        "breed_life_expectancy": "9-12 лет"
+    },
+    {
+        "breed_name": "Шарпей",
+        "breed_img": "https://lapkins.ru/upload/iblock/6eb/6eb68a1aa8f617f075d30573d4c50c8d.jpg",
+        "breed_descr": "Шарпей когда-то был универсальной рабочей собакой, которая выполняла функции сторожа, пастуха и защитника стад, охотника, даже профессионального бойца. Сегодня их чаще всего заводят не для охраны, а в качестве компаньона.",
+        "breed_country": "Китай",
+        "breed_birth_time": "202 г. до н. э.",
+        "breed_weight": "18-35 кг",
+        "breed_height": "40-51 см",
+        "breed_life_expectancy": "10-12 лет"
+    }
+]

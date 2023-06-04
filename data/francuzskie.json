@@ -1,0 +1,102 @@
+[
+    {
+        "breed_name": "Бишон фризе",
+        "breed_img": "https://lapkins.ru/upload/iblock/6f3/6f3dac95ba1fea52efed069f2e512b1f.jpg",
+        "breed_descr": "Бишон фризе (французская болонка) – миниатюрный плюшевый «антидепрессант» и обаятельный шалун, с которым не придется скучать.",
+        "breed_country": "Франция, Бельгия",
+        "breed_birth_time": "",
+        "breed_weight": "2,5-3 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Бордоский дог",
+        "breed_img": "https://lapkins.ru/upload/iblock/ff2/ff21f972bce919225702325884516c17.jpg",
+        "breed_descr": "Бордоский дог – солидный джентльмен, который редко показывает истинные эмоции. Под маской напускной важности скрывается добродушный и весёлый толстячок, с которым стоит подружиться!",
+        "breed_country": "Франция",
+        "breed_birth_time": "1954 год",
+        "breed_weight": "кобели не менее 50 кг, суки не менее 45 кг",
+        "breed_height": "кобели 60-68 см, суки 58-66 см",
+        "breed_life_expectancy": "9-11 лет"
+    },
+    {
+        "breed_name": "Босерон",
+        "breed_img": "https://lapkins.ru/upload/iblock/d56/d565b328cff4741735e33f0a590a6e88.jpg",
+        "breed_descr": "Босерон – собака-пастух из французского Средневековья, которая дошла до наших дней, не претерпев практически никаких изменений.",
+        "breed_country": "Франция",
+        "breed_birth_time": "",
+        "breed_weight": "30-45 кг",
+        "breed_height": "кобели 65-70 см, суки 61-68 см",
+        "breed_life_expectancy": "10-13 лет"
+    },
+    {
+        "breed_name": "Бретонский эпаньоль",
+        "breed_img": "https://lapkins.ru/upload/iblock/c3e/9vgu34zs8e4pxn9xwxgb9vrhvt0jn6g0.jpg",
+        "breed_descr": "Бретонский эпаньоль – компактная подружейная легавая, выведенная во Франции. Отличается большим охотничьим азартом, рано пробуждающимися способностями к работе и врожденной склонностью к апортировке. ",
+        "breed_country": "Франция",
+        "breed_birth_time": "1954 год",
+        "breed_weight": "14-20 кг",
+        "breed_height": "кобели 47-51 см, суки 46-50 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Бриар",
+        "breed_img": "https://lapkins.ru/upload/iblock/cdc/cdc6b0c8519a0234b35ed2713e199bde.jpg",
+        "breed_descr": "Бриар – французская пастушья овчарка с длинной шерстью по всему корпусу и стильной лохматой челкой на лбу, скрывающей глаза. Среди заводчиков ценится за острый ум, живость характера и самостоятельность в принятии решений.",
+        "breed_country": "Франция",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 30-40 кг, суки 25-35 кг",
+        "breed_height": "кобели 62-68 см, суки 56-64 см",
+        "breed_life_expectancy": "11-13 лет"
+    },
+    {
+        "breed_name": "Котон-де-тулеар",
+        "breed_img": "https://lapkins.ru/upload/iblock/c7e/9e0fars86n0gc3w7ta5ry3et4x1qff4l.jpg",
+        "breed_descr": "Котон-де-тулеар – небольшая декоративная собака с белой шерстью, структурой напоминающей содержимое коробочки хлопчатника.",
+        "breed_country": "Мадагаскар, Франция",
+        "breed_birth_time": "1970 год",
+        "breed_weight": "кобели 4-6 см, суки 3,5-5 см",
+        "breed_height": "кобели 25-30 см, суки 22-27 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Папильон",
+        "breed_img": "https://lapkins.ru/upload/iblock/6d1/6d1b9f52aa9f2d04908db02f1b12056a.jpg",
+        "breed_descr": "Папильон, он же папийон, он же континентальный той-спаниель – декоративная собака-компаньон, чья визитная карточка – изящные, украшенные длинной шерстью уши, напоминающие распахнутые крылья бабочки.",
+        "breed_country": "Франция",
+        "breed_birth_time": "",
+        "breed_weight": "3-5 кг",
+        "breed_height": "20-28 см",
+        "breed_life_expectancy": "13-15 лет"
+    },
+    {
+        "breed_name": "Пиренейская горная собака",
+        "breed_img": "https://lapkins.ru/upload/iblock/3b4/3b4dc141fa69a8130aadf6926b25c3af.jpg",
+        "breed_descr": "Пиренейская горная собака (большой пиреней) – французская порода крупных собак с лохматой белой шерстью, ранее привлекавшаяся к пастушеской деятельности и охране территорий.",
+        "breed_country": "Франция",
+        "breed_birth_time": "",
+        "breed_weight": "",
+        "breed_height": "кобели 70-80 см, суки 65-75 см",
+        "breed_life_expectancy": ""
+    },
+    {
+        "breed_name": "Пудель",
+        "breed_img": "https://lapkins.ru/upload/iblock/46c/46c48d510e99fd27d2b9d92eced1dfa4.jpg",
+        "breed_descr": "Пудель – элегантная и миловидная собака, славящаяся своей необычной кудрявой шерстью. Представители этой породы обладают живым характером, веселым нравом и очень смышленые.",
+        "breed_country": "Франция",
+        "breed_birth_time": "",
+        "breed_weight": "большой 20 – 30 кг, малый 8 – 14 кг, карликовый 6 – 8 кг, той ~2,5 кг",
+        "breed_height": "большой 45 – 60 см, малый 35 – 45 см, карликовый 28 – 35 см, той 24 – 28 см",
+        "breed_life_expectancy": "12 – 15 лет"
+    },
+    {
+        "breed_name": "Французский бульдог",
+        "breed_img": "https://lapkins.ru/upload/iblock/5c0/5c0c7393a5e5d42c33c23efc28a52f84.jpg",
+        "breed_descr": "Французский бульдог – маленькая собака-компаньон с добродушным характером. Питомцу требуется постоянное общение с членами семьи.",
+        "breed_country": "Франция",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "8-14 кг",
+        "breed_height": "30-35 см",
+        "breed_life_expectancy": "10-12 лет"
+    }
+]

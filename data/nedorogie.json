@@ -1,0 +1,332 @@
+[
+    {
+        "breed_name": "Американский кокер-спаниель",
+        "breed_img": "https://lapkins.ru/upload/iblock/721/7214fa768d8df6c4384ce3ab7351b7bb.jpg",
+        "breed_descr": "Американский кокер-спаниель – ближайший родственник английского кокер-спаниеля, отличающийся от своего европейского «кузена» более миниатюрной комплекцией и элегантной длинной шерстью.",
+        "breed_country": "США",
+        "breed_birth_time": "",
+        "breed_weight": "7-14 кг",
+        "breed_height": "кобели 36,8-39,4 см, суки 34,3-36,8 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Английский кокер-спаниель",
+        "breed_img": "https://lapkins.ru/upload/iblock/ed9/ed93b033c39f22c5b594c0c80f34f8be.jpg",
+        "breed_descr": "Английский кокер-спаниель – подружейная охотничья собака, выведенная в Великобритании специально для поиска и подъема под выстрел пернатой дичи.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "13-14,5 кг",
+        "breed_height": "кобели 39-41 см, суки 38-39 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Бассет-хаунд",
+        "breed_img": "https://lapkins.ru/upload/iblock/178/17857d5d64a088a571464b2a524d0723.jpg",
+        "breed_descr": "Бассет-хаунд – массивный брудастый «британец» из секции гончих с экстремально низкой посадкой и длинными ушами.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XX век",
+        "breed_weight": "кобели 25-34 кг, суки 20-29 кг",
+        "breed_height": "кобели 30-38 см, суки 28-36 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Бигль",
+        "breed_img": "https://lapkins.ru/upload/iblock/c35/c354befe4fd9dc1c6f7baaf41fa80d74.jpg",
+        "breed_descr": "Бигль относится к гончим породам собак. Этот весёлый добряк станет отличным другом: любящим, терпеливым и, что важно, неприхотливым в уходе.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "8-18 кг",
+        "breed_height": "33-40 см",
+        "breed_life_expectancy": "11-15 лет"
+    },
+    {
+        "breed_name": "Боксер",
+        "breed_img": "https://lapkins.ru/upload/iblock/0d3/0d330b90f354e0aa5941e40c39a40e2f.jpg",
+        "breed_descr": "Немецкий боксёр, или просто боксер – представитель крупной, коренастой и гладкошерстной породы. Выведенный в Германии, он получил широкую известность благодаря отличным охранным качествам. Боксер становится для своего хозяина прекрасным компаньоном и настоящим другом.",
+        "breed_country": "Германия",
+        "breed_birth_time": "1850 год",
+        "breed_weight": "кобели ~30 кг, суки",
+        "breed_height": "кобели 57-63 см, суки 53-59 см",
+        "breed_life_expectancy": "11-12 лет"
+    },
+    {
+        "breed_name": "Бриар",
+        "breed_img": "https://lapkins.ru/upload/iblock/cdc/cdc6b0c8519a0234b35ed2713e199bde.jpg",
+        "breed_descr": "Бриар – французская пастушья овчарка с длинной шерстью по всему корпусу и стильной лохматой челкой на лбу, скрывающей глаза. Среди заводчиков ценится за острый ум, живость характера и самостоятельность в принятии решений.",
+        "breed_country": "Франция",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 30-40 кг, суки 25-35 кг",
+        "breed_height": "кобели 62-68 см, суки 56-64 см",
+        "breed_life_expectancy": "11-13 лет"
+    },
+    {
+        "breed_name": "Брюссельский гриффон",
+        "breed_img": "https://lapkins.ru/upload/iblock/f7a/f7a2fe2890315c592510483d8de8f002.jpg",
+        "breed_descr": "Брюссельский гриффон словно сошёл со страниц сказок о добрых домовятах! Этот очаровательный и слегка неуклюжий бородач с лёгкостью завоюет любовь всех членов семьи.",
+        "breed_country": "Бельгия",
+        "breed_birth_time": "",
+        "breed_weight": "3-6 кг",
+        "breed_height": "18-20 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Вельштерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/d7f/d7f1633c7e0f41b32e6de37e63c131d5.jpg",
+        "breed_descr": "Вельштерьер (уэльский терьер, вельш) – порода норных собак чепрачного окраса, напоминающих уменьшенные копии эрдельтерьеров.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "",
+        "breed_weight": "9-9,5 кг",
+        "breed_height": "до 39 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Восточно-сибирская лайка",
+        "breed_img": "https://lapkins.ru/upload/iblock/429/429bc9c2b87c860844280bf9d0f75935.jpg",
+        "breed_descr": "Восточно-сибирская лайка характеризуется как охотничья порода с задатками ездовой. Это самая крупная из лаек, выведенная на основе эвенкийских, амурских и других промысловых собак Восточной Сибири.",
+        "breed_country": "СССР",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "18-23 кг",
+        "breed_height": "кобели 57-64, суки 53-60 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Восточноевропейская овчарка",
+        "breed_img": "https://lapkins.ru/upload/iblock/27e/27eb172b86a8aa90c74bf7f989003b59.jpg",
+        "breed_descr": "Восточноевропейская овчарка – ближайшая родственница немецкой овчарки, обладающая более выдержанным характером и внушительными габаритами.",
+        "breed_country": "Россия",
+        "breed_birth_time": "12-13 лет",
+        "breed_weight": "кобели 35-60 кг, суки 30-50 кг",
+        "breed_height": "кобели 66-76 см, суки 62-72 см",
+        "breed_life_expectancy": "12 – 13 лет"
+    },
+    {
+        "breed_name": "Далматин",
+        "breed_img": "https://lapkins.ru/upload/iblock/5ed/5edaf287f878b54d13e1894789bd0db6.jpg",
+        "breed_descr": "Далматин – энергичный и жизнерадостный питомец. Благодаря его яркой внешности, вы точно не останетесь незамеченными во время прогулок в парке и на собачьих площадках.",
+        "breed_country": "Хорватия",
+        "breed_birth_time": "1791 год",
+        "breed_weight": "Кобели: 27-32 кг. Суки: 24-29 кг.",
+        "breed_height": "Кобели: 56-62 см. Суки: 54-60 см",
+        "breed_life_expectancy": "10-13 лет"
+    },
+    {
+        "breed_name": "Джек-рассел-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/a02/a027665dded6df37d45e2c2a6c304b28.jpg",
+        "breed_descr": "Джек-рассел-терьер – узнаваемая и популярная порода собак. Это питомец, с которым вам не придется скучать ни минуты.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "первая половина XIX века",
+        "breed_weight": "5-7 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": "13-16 лет"
+    },
+    {
+        "breed_name": "Дратхаар",
+        "breed_img": "https://lapkins.ru/upload/iblock/918/9187cde6276bfec8b445d7bab68989cd.jpg",
+        "breed_descr": "Дратхаар или немецкая жесткошерстная легавая – лучший друг охотника, отлично зарекомендовавший себя при работе как с мелкой, так и крупной дичью.",
+        "breed_country": "Германия",
+        "breed_birth_time": "конец XIX века",
+        "breed_weight": "23-32 кг",
+        "breed_height": "кобели 61-68 см, суки 57-64 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Западно-сибирская лайка",
+        "breed_img": "https://lapkins.ru/upload/iblock/268/268f6329d344730d964f02654a74d1cc.jpg",
+        "breed_descr": "Западно-сибирская лайка – самая многочисленная разновидность лаек, произошедшая от таежных охотничьих собак, издревле обитавших на территории Западно-Сибирской равнины.",
+        "breed_country": "СССР",
+        "breed_birth_time": "1920-е гг.",
+        "breed_weight": "16-22 кг",
+        "breed_height": "кобели 55-62 см, суки 51-58 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Золотистый ретривер",
+        "breed_img": "https://lapkins.ru/upload/iblock/249/249483cc29c8f7316027872ed67ca526.jpg",
+        "breed_descr": "Золотистый ретривер – отличный компаньон и лучший друг охотника. Добродушен, спокоен, великолепно апортирует подстреленную дичь.",
+        "breed_country": "Великобритания",
+        "breed_birth_time": "XIX век",
+        "breed_weight": "кобели 26-41 кг, суки 25-37 кг",
+        "breed_height": "кобели 56-61 см, суки 51-56 см",
+        "breed_life_expectancy": "12 – 13 лет"
+    },
+    {
+        "breed_name": "Йоркширский терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/305/3052ffceecb0392a4bd66c672ac78a71.jpg",
+        "breed_descr": "Йоркширский терьер – одна из самых популярных в мире комнатно-декоративных пород собак. Йорк очарователен внешне, энергичен, ласков и является отличным компаньоном.",
+        "breed_country": "Англия",
+        "breed_birth_time": "конец XIX века",
+        "breed_weight": "2-3,2 кг",
+        "breed_height": "15-17 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Кавказская овчарка",
+        "breed_img": "https://lapkins.ru/upload/iblock/ad2/ad2252f439c32c723e5d065ee89dafdf.jpg",
+        "breed_descr": "Кавказская овчарка или кавказский волкодав – порода крупных сторожевых собак с решительным, бесстрашным характером. Отлично справляются с пастушеской и охранной деятельностью. Преданы одному хозяину.",
+        "breed_country": "Россия",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 50 – 75 кг, суки 45 – 70 кг",
+        "breed_height": "кобели 68 – 75 см, суки 64 – 71 см",
+        "breed_life_expectancy": "10 – 11 лет"
+    },
+    {
+        "breed_name": "Карликовая такса",
+        "breed_img": "https://lapkins.ru/upload/iblock/70a/70a66036a7174161902b5ddbadf00673.jpg",
+        "breed_descr": "Карликовая такса (миниатюрная такса, мини-такса) – ближайшая родственница стандартной таксы, имеющая такой же экстерьер, но уступающая ей в размерах. По габаритам порода является «промежуточным звеном» между стандартной и кроличьей таксами.",
+        "breed_country": "Германия",
+        "breed_birth_time": "",
+        "breed_weight": "4-5 кг",
+        "breed_height": "около 30 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Китайская хохлатая собака",
+        "breed_img": "https://lapkins.ru/upload/iblock/39a/39a8f33c4174a4636113e6c2b6c8cdbe.jpg",
+        "breed_descr": "Китайская хохлатая собака – имиджевая, комнатная порода, представители которой делятся на два типа: бесшерстных особей с полностью голым корпусом и пуховых, заросших длинным шелковистым волосом.",
+        "breed_country": "Китай",
+        "breed_birth_time": "",
+        "breed_weight": "2,3-5,5 кг",
+        "breed_height": "кобели 28-33 см, суки 23-30 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Мопс",
+        "breed_img": "https://lapkins.ru/upload/iblock/130/1309222f033fb6928ea065578276ab44.jpg",
+        "breed_descr": "Мопс является древней и неизменно популярной на протяжении всей своей истории породой. Это прекрасная собака-компаньон для городских жителей.",
+        "breed_country": "Древний Китай",
+        "breed_birth_time": "",
+        "breed_weight": "6-8 кг",
+        "breed_height": "28-32 см",
+        "breed_life_expectancy": "13-14 лет"
+    },
+    {
+        "breed_name": "Московская сторожевая собака",
+        "breed_img": "https://lapkins.ru/upload/iblock/e26/e26a3146e1edf41e3e998172e88f9768.jpg",
+        "breed_descr": "Московская сторожевая собака – крупная служебная порода, выведенная советскими бридерами методом вязки сенбернара и кавказской овчарки.",
+        "breed_country": "Россия",
+        "breed_birth_time": "середина XX века",
+        "breed_weight": "кобели 55-65 кг, суки 45-55 кг",
+        "breed_height": "кобели 65-78 см, суки 70-75 см",
+        "breed_life_expectancy": "9-12 лет"
+    },
+    {
+        "breed_name": "Немецкий ягдтерьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/861/86116848fdc287939c9af57d7638361f.jpg",
+        "breed_descr": "Немецкий ягдтерьер – близкий родственник фокстерьера и универсальный охотник, профессионально работающий с норным зверем, птицей и прочими видами дичи.",
+        "breed_country": "Германия",
+        "breed_birth_time": "1930-1940-е годы",
+        "breed_weight": "кобели 9-10 кг, суки 7,5-8,5 кг",
+        "breed_height": "33-40 см",
+        "breed_life_expectancy": "9-13 лет"
+    },
+    {
+        "breed_name": "Пекинес",
+        "breed_img": "https://lapkins.ru/upload/iblock/b61/b61169457eab98ed122cda7e99579a5a.jpg",
+        "breed_descr": "Пекинес – древняя порода декоративных собак с короткими лапами, «сплющенными» мордочками и пушистой шерстью, выведенная в Китае.",
+        "breed_country": "Китай",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 3,2-5,0 кг, суки 3,6-5,4 кг",
+        "breed_height": "15-25 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Пти-брабансон",
+        "breed_img": "https://lapkins.ru/upload/iblock/0e6/0e62c17933c771a85a0546211950d579.jpg",
+        "breed_descr": "Пти-брабансон – декоративная порода, относящаяся к группе малых бельгийских собак. Ласковые и любознательные, брабантские гриффоны сильно привязываются к своим хозяевам.",
+        "breed_country": "Бельгия",
+        "breed_birth_time": "",
+        "breed_weight": "от 3 до 6 кг",
+        "breed_height": "16-26 см",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Пудель",
+        "breed_img": "https://lapkins.ru/upload/iblock/46c/46c48d510e99fd27d2b9d92eced1dfa4.jpg",
+        "breed_descr": "Пудель – элегантная и миловидная собака, славящаяся своей необычной кудрявой шерстью. Представители этой породы обладают живым характером, веселым нравом и очень смышленые.",
+        "breed_country": "Франция",
+        "breed_birth_time": "",
+        "breed_weight": "большой 20 – 30 кг, малый 8 – 14 кг, карликовый 6 – 8 кг, той ~2,5 кг",
+        "breed_height": "большой 45 – 60 см, малый 35 – 45 см, карликовый 28 – 35 см, той 24 – 28 см",
+        "breed_life_expectancy": "12 – 15 лет"
+    },
+    {
+        "breed_name": "Русский охотничий спаниель",
+        "breed_img": "https://lapkins.ru/upload/iblock/5e4/5e4114477c547d94166e4bca7e364af6.jpg",
+        "breed_descr": "Русский охотничий спаниель – первоклассный специалист по подружейной охоте на пернатую дичь. Умен, легкообучаем, исполнителен. Обладает развитой интуицией, которой часто находит применение в повседневной жизни.",
+        "breed_country": "Россия",
+        "breed_birth_time": "1951 год",
+        "breed_weight": "13-16 кг",
+        "breed_height": "кобели 38-44 см, суки 36-42 см",
+        "breed_life_expectancy": "12-14 лет"
+    },
+    {
+        "breed_name": "Русский той-терьер",
+        "breed_img": "https://lapkins.ru/upload/iblock/947/947e6bec6c723daeddb2296e8b71ac1a.JPG",
+        "breed_descr": "Русский той-терьер – миниатюрный и чрезвычайно эмоциональный умница. Верный компаньон и неутомимый проказник, он с удовольствием поддержит любую игру.",
+        "breed_country": "Россия",
+        "breed_birth_time": "",
+        "breed_weight": "1,4-3 кг",
+        "breed_height": "20-28 см",
+        "breed_life_expectancy": "10-12 лет"
+    },
+    {
+        "breed_name": "Русско-европейская лайка",
+        "breed_img": "https://lapkins.ru/upload/iblock/ebd/ebd19f44cd131f425feed81f9b578198.jpg",
+        "breed_descr": "Русско-европейская лайка – заводская порода охотничьих собак черной, белой и черно-пегой масти, выведенная на основе коми-лаек. В среде кинологов считается универсальной рабочей породой, способной добывать как дичь, так и пушнину.",
+        "breed_country": "СССР",
+        "breed_birth_time": "1974 год",
+        "breed_weight": "18-23 кг",
+        "breed_height": "кобели 52-58 см, суки 50-56 см",
+        "breed_life_expectancy": ""
+    },
+    {
+        "breed_name": "Такса",
+        "breed_img": "https://lapkins.ru/upload/iblock/53b/53b92eec713e2c552ebc1f1001a0a350.jpg",
+        "breed_descr": "Такса – пример удивительного контраста между непримечательной на первый взгляд внешностью и совершенством  внутреннего содержания.",
+        "breed_country": "Германия",
+        "breed_birth_time": "XVI век",
+        "breed_weight": "до 12 кг",
+        "breed_height": "до 35 см",
+        "breed_life_expectancy": "10-13 лет"
+    },
+    {
+        "breed_name": "Цвергпинчер",
+        "breed_img": "https://lapkins.ru/upload/iblock/77a/77a1906405224249bdfc14d72fd367d1.jpg",
+        "breed_descr": "Цвергпинчер – миниатюрный, но весьма крепко сложенный красавец, энергичный, бесстрашный и уверенный в себе. Он эмоционален, ласков и чрезвычайно общителен.",
+        "breed_country": "Германия",
+        "breed_birth_time": "XVIII век",
+        "breed_weight": "4-6 кг",
+        "breed_height": "25-30 см",
+        "breed_life_expectancy": "13-15 лет"
+    },
+    {
+        "breed_name": "Эстонская гончая",
+        "breed_img": "https://lapkins.ru/upload/iblock/fcc/fcc2e4db742cfe3125dff431c50d47d3.jpg",
+        "breed_descr": "Эстонская гончая представляет собой прекрасный образец охотничьей собаки. Она обладает великолепным чутьем, отвагой, интеллектом, а также выделяется эффектным экстерьером.",
+        "breed_country": "Эстония",
+        "breed_birth_time": "",
+        "breed_weight": "кобели 15-25 кг, суки 10-20 кг",
+        "breed_height": "кобели 45-52 см, суки 42-49 см.",
+        "breed_life_expectancy": "12-15 лет"
+    },
+    {
+        "breed_name": "Южнорусская овчарка",
+        "breed_img": "https://lapkins.ru/upload/iblock/254/254d591f1140197ca737aceef59259db.jpg",
+        "breed_descr": "Южнорусская овчарка – порода крупных собак белого, палевого и серого окрасов, традиционно разводившаяся в южных регионах России и Украины.",
+        "breed_country": "Россия",
+        "breed_birth_time": "",
+        "breed_weight": "48-50 кг",
+        "breed_height": "кобели от 65 см, суки от 62 см",
+        "breed_life_expectancy": "9-11 лет"
+    },
+    {
+        "breed_name": "Якутская лайка",
+        "breed_img": "https://lapkins.ru/upload/iblock/a07/a07e67c4089cf690b4b8f00649289cbd.jpg",
+        "breed_descr": "Якутские лайки – аборигенные собаки, издревле разводимые коренным населением северо-восточной Сибири. Основные сферы деятельности породы – охотничья, сторожевая, ездовая.",
+        "breed_country": "Россия",
+        "breed_birth_time": "",
+        "breed_weight": "23-30 кг",
+        "breed_height": "кобели 55-59 см, суки 53-57 см",
+        "breed_life_expectancy": "12-15 лет"
+    }
+]
